@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.generic.openAIRE.displayName" xml:space="preserve" approved="no">
+<source>OpenAIRE</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.openAIRE.description" xml:space="preserve" approved="no">
+<source>O plugin OpenAIRE inclui o elemento projectID aos metadados do artigo e estende a interface OAI-PMH para se adequar às Orientações do OpenAIRE 1.1, auxiliando periódicos que usam o OJS a serem compatíveis com o OpenAIRE.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.openAIRE.projectID" xml:space="preserve" approved="no">
+<source>OpenAIRE ProjectID</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.openAIRE.projectIDValid" xml:space="preserve" approved="no">
+<source>Informe um projectID válido (6 números)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.openAIRE.projectID.description" xml:space="preserve" approved="no">
+<source>Informe um projectID válido (6 números)</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

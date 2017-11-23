@@ -1,0 +1,426 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="author.submit" xml:space="preserve" approved="no">
+<source>Nova submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.track" xml:space="preserve" approved="no">
+<source>Submissões ativas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.competingInterests" xml:space="preserve" approved="no">
+<source>&lt;a target="_new" class="action" href="{$competingInterestGuidelinesUrl}"&gt;Política de Conflito de Interesses&lt;/a&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.submitArticle" xml:space="preserve" approved="no">
+<source>Submeter artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.stepsToSubmit" xml:space="preserve" approved="no">
+<source>5 Passos para a submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.startHereTitle" xml:space="preserve" approved="no">
+<source>Iniciar nova submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.startHereLink" xml:space="preserve" approved="no">
+<source>&lt;a href="{$submitUrl}" class="action"&gt;Clique aqui&lt;/a&gt; para iniciar os cinco passos do processo de submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.step1" xml:space="preserve" approved="no">
+<source>Passo 1. Iniciar submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.step2" xml:space="preserve" approved="no">
+<source>Passo 2. Transferência do manuscrito</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.step3" xml:space="preserve" approved="no">
+<source>Passo 3. Metadados da submissão (Indexação)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.step4" xml:space="preserve" approved="no">
+<source>Passo 4. Transferência de documentos suplementares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.step4a" xml:space="preserve" approved="no">
+<source>Passo 4a. Incluir documento suplementar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.step5" xml:space="preserve" approved="no">
+<source>Passo 5. Confirmação da submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.start" xml:space="preserve" approved="no">
+<source>Início</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.upload" xml:space="preserve" approved="no">
+<source>Transferência do manuscrito</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.metadata" xml:space="preserve" approved="no">
+<source>Dados da Submissão </source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.supplementaryFiles" xml:space="preserve" approved="no">
+<source>Transferência de documentos suplementares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.confirmation" xml:space="preserve" approved="no">
+<source>Confirmação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.cancelSubmission" xml:space="preserve" approved="no">
+<source>A submissão pode ser concluída em uma data posterior, clicando em Submissões Ativas nas opções da sua página de autor.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.notAccepting" xml:space="preserve" approved="no">
+<source>A revista não está aceitando submissões neste momento.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.requestWaiver" xml:space="preserve" approved="no">
+<source>Solicitar isenção de taxas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.qualifyForWaiver" xml:space="preserve" approved="no">
+<source>Solicito considerar isenção de Taxa de Submissão para este artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.addReasonsForWaiver" xml:space="preserve" approved="no">
+<source>Informe no campo de comentários motivos para a isenção de taxa.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.uploadCopyeditedVersion" xml:space="preserve" approved="no">
+<source>Transferir cópia editada</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.proofreadingCorrections" xml:space="preserve" approved="no">
+<source>Correções da Leitura de Prova</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.confirmDelete" xml:space="preserve" approved="no">
+<source>Deseja realmente excluir esta submissão incompleta?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.viewStatus" xml:space="preserve" approved="no">
+<source>Verificar situação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.noSubmissions" xml:space="preserve" approved="no">
+<source>Nenhuma submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.howToSubmit" xml:space="preserve" approved="no">
+<source>Em caso de dificuldades com o processo, entre em contato com &lt;a href="mailto:{$supportEmail}"&gt;{$supportName}&lt;/a&gt; via e-mail ou pelo telefone {$supportPhone} para suporte.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.howToSubmitNoPhone" xml:space="preserve" approved="no">
+<source>Em caso de dificuldades com o processo, entre em contato com &lt;a href="mailto:{$supportEmail}"&gt;{$supportName}&lt;/a&gt; via e-mail para suporte.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.journalSection" xml:space="preserve" approved="no">
+<source>Seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.journalSectionDescription" xml:space="preserve" approved="no">
+<source>Escolha a seção apropriada para a submissão (leia Seções e Políticas na página &lt;a href="{$aboutUrl}"&gt;Sobre&lt;/a&gt; a revista).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.selectSection" xml:space="preserve" approved="no">
+<source>Escolha uma seção...</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.verifyChecklist" xml:space="preserve" approved="no">
+<source>Todas as condições devem ser satisfeitas antes de continuar.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.copyrightNoticeAgree" xml:space="preserve" approved="no">
+<source>Os autores concordam com os termos da Declaração de Direito Autoral, que se aplicará a esta submissão caso seja publicada nesta revista (comentários ao editor podem ser incluídos a seguir).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.copyrightNoticeAgreeRequired" xml:space="preserve" approved="no">
+<source>É obrigatório aceitar a Declaração de Direito Autoral para continuar!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.coverNote" xml:space="preserve" approved="no">
+<source>Comentários para o editor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.comments" xml:space="preserve" approved="no">
+<source>Digite o texto (opcional)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.form.sectionRequired" xml:space="preserve" approved="no">
+<source>Escolha a seção apropriada para a submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.privacyStatement" xml:space="preserve" approved="no">
+<source>Política de Privacidade</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.reorderInstructions" xml:space="preserve" approved="no">
+<source>Utilize as setas para alterar a ordem em que os nomes dos autores aparecerão na publicação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.selectPrincipalContact" xml:space="preserve" approved="no">
+<source>Contato principal para correspondência.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.addAuthor" xml:space="preserve" approved="no">
+<source>Incluir autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.deleteAuthor" xml:space="preserve" approved="no">
+<source>Excluir autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.submissionIndexingDescription" xml:space="preserve" approved="no">
+<source>Digite termos que descrevam da melhor maneira o conteúdo da submissão, segundo as categorias utilizadas pela revista e os exemplos oferecidos pelo editor. Separe os termos com ponto-e-vírgula (termo1; termo2; termo3).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.coverageInstructions" xml:space="preserve" approved="no">
+<source>Refere-se à localização ou cobertura geográfica, cronológica ou histórica, e/ou às características de amostragem da pesquisa.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.languageInstructions" xml:space="preserve" approved="no">
+<source>Português=pt; English=en; French=fr; Spanish=es. &lt;a href="http://www.loc.gov/standards/iso639-2/php/code_list.php" target="_blank"&gt;Códigos Adicionais&lt;/a&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.form.authorRequired" xml:space="preserve" approved="no">
+<source>A submissão deve ter pelo menos um autor.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.form.authorRequiredFields" xml:space="preserve" approved="no">
+<source>São campos obrigatórios o primeiro nome (prénome), sobrenome e e-mail para cada autor.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.form.titleRequired" xml:space="preserve" approved="no">
+<source>Digite o título do documento.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.form.abstractRequired" xml:space="preserve" approved="no">
+<source>Informe o resumo do documento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.submissionFile" xml:space="preserve" approved="no">
+<source>Arquivo submetido</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.uploadSubmissionFile" xml:space="preserve" approved="no">
+<source>Transferir arquivo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.replaceSubmissionFile" xml:space="preserve" approved="no">
+<source>Substituir arquivo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.noSubmissionFile" xml:space="preserve" approved="no">
+<source>Nenhum arquivo transferido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.noSubmissionConfirm" xml:space="preserve" approved="no">
+<source>Deseja realmente continuar sem enviar um arquivo ao sistema?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.supplementaryFilesInstructions" xml:space="preserve" approved="no">
+<source>Este é um passo opcional no processo de submissão. Documentos Suplementares funcionam como um apêndice ao manuscrito, com o objetivo de auxiliar na compreensão e avaliação da submissão. Documentos Suplementares podem incluir (a) instrumentos de pesquisa, (b) conjuntos de dados e tabelas, que seguem os padrões de ética de avaliação, (c) fontes de informação normalmente não disponíveis para leitores, ou (d) figuras ou tabelas que não podem ser integradas ao texto em si. Estes documentos também devem ser indexados pelo autor, identificando a relação dos mesmos com a submissão, bem como a propriedade. Qualquer tipo ou formato de documento pode ser transferido como documento suplementar e será disponibilizado aos leitores em seu formato original de envio. Estes documentos podem ser disponibilizados aos avaliadores, caso não comprometam o processo editorial.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.supplementaryFiles.saveToUpload" xml:space="preserve" approved="no">
+<source>Clique Salvar para transferir documento.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.forgottenSubmitSuppFile" xml:space="preserve" approved="no">
+<source>Deseja realmente continuar sem enviar os documentos suplementares escolhidos?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.noSupplementaryFiles" xml:space="preserve" approved="no">
+<source>Nenhum documento suplementar anexado à submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.backToSupplementaryFiles" xml:space="preserve" approved="no">
+<source>Voltar para Documentos Suplementares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.confirmDeleteSuppFile" xml:space="preserve" approved="no">
+<source>Deseja realmente excluir este documento suplementar?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.uploadSuppFile" xml:space="preserve" approved="no">
+<source>Transferir documentos suplementares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.addSupplementaryFile" xml:space="preserve" approved="no">
+<source>Incluir Documento Suplementar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.editSupplementaryFile" xml:space="preserve" approved="no">
+<source>Editar Documento Suplementar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.supplementaryFileData" xml:space="preserve" approved="no">
+<source>Metadados do Documento Suplementar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.supplementaryFileDataDescription" xml:space="preserve" approved="no">
+<source>Informe os seguintes metadados para cada documento suplementar, conforme necessário, e transfira o documento.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.supplementaryFileUpload" xml:space="preserve" approved="no">
+<source>Documento Suplementar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.createrOrOwner" xml:space="preserve" approved="no">
+<source>Criador (ou proprietário) do documento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.researchInstrument" xml:space="preserve" approved="no">
+<source>Instrumento de Pesquisa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.researchMaterials" xml:space="preserve" approved="no">
+<source>Material de Pesquisa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.researchResults" xml:space="preserve" approved="no">
+<source>Resultados de Pesquisa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.transcripts" xml:space="preserve" approved="no">
+<source>Transcrição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.dataAnalysis" xml:space="preserve" approved="no">
+<source>Análise de Dados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.dataSet" xml:space="preserve" approved="no">
+<source>Conjunto de Dados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.sourceText" xml:space="preserve" approved="no">
+<source>Texto Original</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.briefDescription" xml:space="preserve" approved="no">
+<source>Descrição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.availableToPeers" xml:space="preserve" approved="no">
+<source>Apresentar documento aos avaliadores (sem metadados), pois não irá comprometer a avaliação pelos pares cega.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.publisherDescription" xml:space="preserve" approved="no">
+<source>Utilizar somente com material publicado formalmente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.dateDescription" xml:space="preserve" approved="no">
+<source>Data de coleta de dados ou criação do instrumento.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.sourceDescription" xml:space="preserve" approved="no">
+<source>Nome do estudo ou ponto de origem.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.specifyOtherType" xml:space="preserve" approved="no">
+<source>Especificar outro</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.noFile" xml:space="preserve" approved="no">
+<source>Nenhum documento transferido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.form.titleRequired" xml:space="preserve" approved="no">
+<source>Título do documento suplementar obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.form.subjectRequired" xml:space="preserve" approved="no">
+<source>Assunto obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.suppFile.form.descriptionRequired" xml:space="preserve" approved="no">
+<source>Descrição obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.suppFile.suppFilePublicIdentificationExists" xml:space="preserve" approved="no">
+<source>Documento suplementar público já existente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.suppFile.publicSuppFileIdentifier" xml:space="preserve" approved="no">
+<source>Identificador de documento suplementar público</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.confirmationDescription" xml:space="preserve" approved="no">
+<source>Após concluídos e verificados os passos anteriores, clique em "Concluir submissão" para enviar seu trabalho para a revista {$journalTitle}. Um e-mail de confirmação será enviado. Acompanhe a situação da submissão, dentro do processo editorial da revista, acessando o sistema com o papel de autor. Agradecemos seu interesse em contribuir com seu trabalho para a revista {$journalTitle}.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.noFiles" xml:space="preserve" approved="no">
+<source>Nenhum documento anexado à submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.filesSummary" xml:space="preserve" approved="no">
+<source>Resumo de documentos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.finishSubmission" xml:space="preserve" approved="no">
+<source>Concluir submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.submissionComplete" xml:space="preserve" approved="no">
+<source>Submissão concluída. Agradecemos seu interesse em contribuir com seu trabalho para a revista {$journalTitle}.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.article.uploadAuthorVersion" xml:space="preserve" approved="no">
+<source>Transferir Versão do Autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.article.copyeditedFile" xml:space="preserve" approved="no">
+<source>Documento editado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.article.authorRevisedFile" xml:space="preserve" approved="no">
+<source>Versão do Autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.authorSubmitLoginMessage" xml:space="preserve" approved="no">
+<source>É necessário criar um cadastro para submeter documentos à revista. Isto permite aos editores acompanhar a submissão e notificá-lo das mudanças na situação da submissão, ou caso informações adicionais sejam necessárias para dar continuidade ao processo editorial.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.mustEnterWaiverReason" xml:space="preserve" approved="no">
+<source>Informe a motivação no espaço disponível, caso esteja solicitando isenção de taxa.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.queuedReviewSubsequent" xml:space="preserve" approved="no">
+<source>Em avaliação: rodada {$round}</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.queuedReviewRevisions" xml:space="preserve" approved="no">
+<source>Em avaliação: Revisões Requeridas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.queuedEditingCopyedit" xml:space="preserve" approved="no">
+<source>Em edição: Edição de Texto solicitada</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submissions.queuedEditingProofread" xml:space="preserve" approved="no">
+<source>Em edição: Leitura de provas solicitada</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.reorder" xml:space="preserve" approved="no">
+<source>Reordenar nome do autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.form.wordCountAlert" xml:space="preserve" approved="no">
+<source>O limite de palavras para resumos desta seção foi excedido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.form.localeRequired" xml:space="preserve" approved="no">
+<source>Escolha um idioma para a submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.submit.nextSteps" xml:space="preserve" approved="no">
+<source>Próximos Passos</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

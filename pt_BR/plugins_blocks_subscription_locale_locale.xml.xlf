@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.block.subscription.displayName" xml:space="preserve" approved="no">
+<source>Dados do assinante</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.block.subscription.description" xml:space="preserve" approved="no">
+<source>Este plugin oferece informações sobre a assinatura nas barras laterais.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.block.subscription.blockTitle" xml:space="preserve" approved="no">
+<source>Assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.block.subscription.expires" xml:space="preserve" approved="no">
+<source>Expiração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.block.subscription.providedBy" xml:space="preserve" approved="no">
+<source>Acesso fornecido por:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.block.subscription.comingFromIP" xml:space="preserve" approved="no">
+<source>IP de proveniência:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.block.subscription.about" xml:space="preserve" approved="no">
+<source>Assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.block.subscription.loginToVerifySubscription" xml:space="preserve" approved="no">
+<source>Acesse o sistema para verificar sua assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

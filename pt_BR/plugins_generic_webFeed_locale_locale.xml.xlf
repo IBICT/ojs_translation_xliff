@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.generic.webfeed.displayName" xml:space="preserve" approved="no">
+<source>Canal de divulgação RSS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.description" xml:space="preserve" approved="no">
+<source>Este plugin produz canais de divulgação RSS/Atom para a edição atual.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings" xml:space="preserve" approved="no">
+<source>Configurações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings.issue" xml:space="preserve" approved="no">
+<source>Exibir canais somente nas páginas da edição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings.all" xml:space="preserve" approved="no">
+<source>Exibir canais em todas as páginas da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings.currentIssue" xml:space="preserve" approved="no">
+<source>Exibir itens da edição atual.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings.recentArticles" xml:space="preserve" approved="no">
+<source>itens mais recentes.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings.recentItemsRequired" xml:space="preserve" approved="no">
+<source>Informe um inteiro positivo para o número de itens mais recentes.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings.homepage" xml:space="preserve" approved="no">
+<source>Exibir links de canais apenas nas páginas inicial e das edições.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.atom.altText" xml:space="preserve" approved="no">
+<source>Logo Atom</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.rss1.altText" xml:space="preserve" approved="no">
+<source>Logo RSS1</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.rss2.altText" xml:space="preserve" approved="no">
+<source>Logo RSS2</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.webfeed.settings.recent" xml:space="preserve" approved="no">
+<source>itens mais recentes.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

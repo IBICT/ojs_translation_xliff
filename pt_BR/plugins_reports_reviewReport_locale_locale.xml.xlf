@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.reports.reviews.displayName" xml:space="preserve" approved="no">
+<source>Relatórios de avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.description" xml:space="preserve" approved="no">
+<source>Este plugin implementa um relatório no formato CSV (planilha eletrônica) contendo a lista de tarefas de avaliação para uma revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.round" xml:space="preserve" approved="no">
+<source>Rodada</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.reviewerId" xml:space="preserve" approved="no">
+<source>ID do avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.reviewer" xml:space="preserve" approved="no">
+<source>Avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.dateAssigned" xml:space="preserve" approved="no">
+<source>Solicitação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.dateNotified" xml:space="preserve" approved="no">
+<source>Notificação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.dateConfirmed" xml:space="preserve" approved="no">
+<source>Confirmação de disponibilidade</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.dateCompleted" xml:space="preserve" approved="no">
+<source>Conclusão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.reviews.dateReminded" xml:space="preserve" approved="no">
+<source>Lembrete</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

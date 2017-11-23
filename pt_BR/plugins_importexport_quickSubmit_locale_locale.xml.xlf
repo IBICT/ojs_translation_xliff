@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.importexport.quickSubmit.displayName" xml:space="preserve" approved="no">
+<source>Submissão rápida</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.quickSubmit.description" xml:space="preserve" approved="no">
+<source>Plugin de submissão em 1 passo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.quickSubmit.success" xml:space="preserve" approved="no">
+<source>Artigo incluído</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.quickSubmit.successDescription" xml:space="preserve" approved="no">
+<source>Artigo criado com sucesso.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.quickSubmit.successReturn" xml:space="preserve" approved="no">
+<source>Voltar à submissão rápida.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

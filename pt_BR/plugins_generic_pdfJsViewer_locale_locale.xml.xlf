@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.generic.pdfJsViewer.name" xml:space="preserve" approved="no">
+<source>PDF.JS PDF Viewer</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.pdfJsViewer.description" xml:space="preserve" approved="no">
+<source>Este plugin usa o &lt;a href="http://mozilla.github.io/pdf.js"&gt;pdf.js PDF viewer&lt;/a&gt; para embutir PDFs nas páginas de visualização dos artigos.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

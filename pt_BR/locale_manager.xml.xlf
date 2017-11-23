@@ -1,0 +1,2243 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="manager.emails.confirmResetAll" xml:space="preserve" approved="no">
+<source>Deseja realmente restaurar todos os e-mails para o padrão original para esta revista? Todas as personalizações serão perdidas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.files.note" xml:space="preserve" approved="no">
+<source>Aviso: o navegador de arquivos é uma ferramenta avançada que permite visualização e manipulação direta de documentos e diretórios associados à revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.journalManagement" xml:space="preserve" approved="no">
+<source>Administração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.language.confirmDefaultSettingsOverwrite" xml:space="preserve" approved="no">
+<source>A ação substituirá configurações específicas realizadas posteriormente no idioma selecionado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.languages.languageInstructions" xml:space="preserve" approved="no">
+<source>O sistema pode ser apresentado nos vários idiomas disponíveis, bem como operar como sistema multilíngüe, proporcionando a opção de troca de idioma em cada página, e permitindo que algumas informações sejam incluídas nos idiomas adicionais habilitados para a revista.&lt;br /&gt;&lt;br /&gt;Caso o idioma desejado não esteja disponível, solicite ao administrador do portal a sua instalação por meio da sua interface específica de administração do portal. Para informações sobre a instalação de novos idiomas, consulte a documentação do sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.languages.noneAvailable" xml:space="preserve" approved="no">
+<source>Nenhum idioma adicional disponível. Solicite ao administrador do portal a inclusão de idiomas adicionais para esta revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.languages.primaryLocaleInstructions" xml:space="preserve" approved="no">
+<source>Idioma padrão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.managementPages" xml:space="preserve" approved="no">
+<source>Configurações e ferramentas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.action" xml:space="preserve" approved="no">
+<source>Ação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.addPayment" xml:space="preserve" approved="no">
+<source>Incluir forma de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.amount" xml:space="preserve" approved="no">
+<source>Total</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.authorFees" xml:space="preserve" approved="no">
+<source>Taxas para autores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.authorFeesDescription" xml:space="preserve" approved="no">
+<source>As opções definidas (bem como as descrições, que podem ser alteradas, e as taxas) serão exibidas no Passo 1 do processo de submissão e na seção Submissões do Sobre a revista, assim como nos locais onde pagamento é exigido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.currency" xml:space="preserve" approved="no">
+<source>Moeda</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.currencymessage" xml:space="preserve" approved="no">
+<source>O sistema não realiza conversão de moeda. Ao aceitar pagamentos pela assinatura, certifique-se do tipo de moeda ter sido especificado corretamente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.description" xml:space="preserve" approved="no">
+<source>Descrição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.details" xml:space="preserve" approved="no">
+<source>Detalhes</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.editSubscription" xml:space="preserve" approved="no">
+<source>Editar assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.enable" xml:space="preserve" approved="no">
+<source>Habilitar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.feePaymentOptions" xml:space="preserve" approved="no">
+<source>Opções de pagamento de taxa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.form.numeric" xml:space="preserve" approved="no">
+<source>Todos os preços devem ser valores numéricos positivos (são autorizadas casas decimais)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.generalFees" xml:space="preserve" approved="no">
+<source>Taxas gerais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.generalFeesDescription" xml:space="preserve" approved="no">
+<source>A taxa de adesão aparecerá na seção Políticas da página Sobre a revista, e o link para doações aparecerá, por padrão, acima das funções de busca da barra lateral.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.generalOptions" xml:space="preserve" approved="no">
+<source>Opções gerais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.noPayments" xml:space="preserve" approved="no">
+<source>Nenhum pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.notFound" xml:space="preserve" approved="no">
+<source>Não encontrado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options" xml:space="preserve" approved="no">
+<source>Opções</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.acceptSubscriptionPayments" xml:space="preserve" approved="no">
+<source>Esta ação ativará pagamento para assinaturas, sendo responsabilidade do gerente de assinaturas definir e gerenciar os tipos, taxas, duração e assinantes.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.enablePayments" xml:space="preserve" approved="no">
+<source>Clique aqui para habilitar o módulo de pagamentos. Em seguida, configure as opções de pagamento através do formulário disponível. Usuários deverão estar cadastrados e logados no sistema para realizar pagamentos.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.fee" xml:space="preserve" approved="no">
+<source>Taxa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.feeDescription" xml:space="preserve" approved="no">
+<source>Descrição da taxa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.feeName" xml:space="preserve" approved="no">
+<source>Título da taxa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.membershipFee" xml:space="preserve" approved="no">
+<source>Taxa de adesão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.onlypdf" xml:space="preserve" approved="no">
+<source>Restringir acesso apenas a versões PDF dos artigos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.publicationFee" xml:space="preserve" approved="no">
+<source>Publicação de artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.purchaseArticleFee" xml:space="preserve" approved="no">
+<source>Adquirir artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.text" xml:space="preserve" approved="no">
+<source>Descrição do método de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.paymentId" xml:space="preserve" approved="no">
+<source>Código do pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.paymentMethod" xml:space="preserve" approved="no">
+<source>Métodos de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.paymentMethod.description" xml:space="preserve" approved="no">
+<source>A partir desta tela, pode-se configurar os plugins de métodos de pagamento listados a seguir.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.paymentMethods" xml:space="preserve" approved="no">
+<source>Métodos de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.paymentType" xml:space="preserve" approved="no">
+<source>Tipo de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.readerFees" xml:space="preserve" approved="no">
+<source>Taxas para leitores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.readerFeesDescription" xml:space="preserve" approved="no">
+<source>As opções definidas (bem como as descrições, que podem ser alteradas, e as taxas) serão exibidas na seção Políticas, da página Sobre a revista, assim como nos locais onde algum pagamento seja exigido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.records" xml:space="preserve" approved="no">
+<source>Registros</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payments" xml:space="preserve" approved="no">
+<source>Formas de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.userName" xml:space="preserve" approved="no">
+<source>Usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.allEnrolledUsers" xml:space="preserve" approved="no">
+<source>Usuários cadastrados nesta revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.allJournals" xml:space="preserve" approved="no">
+<source>Todas as revistas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.allSiteUsers" xml:space="preserve" approved="no">
+<source>Cadastrar usuário do portal nesta revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.allUsers" xml:space="preserve" approved="no">
+<source>Todos os usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.confirmRemove" xml:space="preserve" approved="no">
+<source>Remover este usuário da revista? A ação removerá todos os papéis nos quais o usuário está cadastrado nesta revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.emailUsers.selectTemplate" xml:space="preserve" approved="no">
+<source>Selecionar modelo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.enrollExistingUser" xml:space="preserve" approved="no">
+<source>Cadastrar usuário existente</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.enrollSyncJournal" xml:space="preserve" approved="no">
+<source>na revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.mergeUsers.from.description" xml:space="preserve" approved="no">
+<source>Escolha um usuário para mesclar seu cadastro dentro de outra conta (quando um usuário possui duas contas distintas, em vez de acumular funções editoriais). O cadastro selecionado primeiro será excluído e suas submissões e histórico de tarefas atribuías ao segundo cadastro escolhido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.mergeUsers.into.description" xml:space="preserve" approved="no">
+<source>Escolha um usuário a quem deseja atribuir as submissões e histórico de tarefas do cadastro anterior.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.roleEnrollment" xml:space="preserve" approved="no">
+<source>Papel de {$role}</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.syncUserDescription" xml:space="preserve" approved="no">
+<source>A sincronização cadastrará, nesta revista e no mesmo papel, todos os usuários com o papel definido da revista de origem. Esta função permite que um grupo comum de usuários (os avaliadores, por exemplo) seja compartilhado entre revistas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.abstractsNotRequired" xml:space="preserve" approved="no">
+<source>Não exigir resumos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.assigned" xml:space="preserve" approved="no">
+<source>Editores desta seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.create" xml:space="preserve" approved="no">
+<source>Incluir seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.section.sectionEditorInstructions" xml:space="preserve" approved="no">
+<source>Escolha dentre os editores de seção disponíveis e clique em "Designar editor" a esta seção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.editorRestriction" xml:space="preserve" approved="no">
+<source>Restrita a editores e editores de seção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.editors" xml:space="preserve" approved="no">
+<source>Editores de seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.form.abbrevRequired" xml:space="preserve" approved="no">
+<source>Acrônimo da seção obrigatório</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.form.mustAllowPermission" xml:space="preserve" approved="no">
+<source>Marque pelo menos uma opção para cada tarefa do Editor de seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.form.reviewFormId" xml:space="preserve" approved="no">
+<source>É necessário escolher um formulário de avaliação válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.form.titleRequired" xml:space="preserve" approved="no">
+<source>Título obrigatório para a seção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.hideTocAuthor" xml:space="preserve" approved="no">
+<source>Omitir nomes dos autores dos itens publicados nesta seção no sumário da edição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.hideTocTitle" xml:space="preserve" approved="no">
+<source>Omitir o título desta seção no sumário da edição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.identifyType" xml:space="preserve" approved="no">
+<source>Como metadado do artigo, identificar itens nesta seção como</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.identifyTypeExamples" xml:space="preserve" approved="no">
+<source>(Exemplo: "Avaliado pelos pares", "Artigo não avaliado pelos pares", "Artigo de convidado", etc.)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.indexed" xml:space="preserve" approved="no">
+<source>Indexado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.noneCreated" xml:space="preserve" approved="no">
+<source>Nenhuma seção criada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.open" xml:space="preserve" approved="no">
+<source>Submissões abertas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.policy" xml:space="preserve" approved="no">
+<source>Políticas da seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.readingTools" xml:space="preserve" approved="no">
+<source>Ferramentas de leitura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.reviewed" xml:space="preserve" approved="no">
+<source>Avaliado pelos pares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.submissionIndexing" xml:space="preserve" approved="no">
+<source>Itens da seção NÃO serão incluídos para indexação da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.submissionReview" xml:space="preserve" approved="no">
+<source>NÃO serão avaliados pelos pares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.section.submissionsToThisSection" xml:space="preserve" approved="no">
+<source>Submissões a esta seção da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.unassigned" xml:space="preserve" approved="no">
+<source>Editores de seção disponíveis</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup" xml:space="preserve" approved="no">
+<source>Configuração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.aboutItemContent" xml:space="preserve" approved="no">
+<source>Conteúdo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.addAboutItem" xml:space="preserve" approved="no">
+<source>Incluir mais um item</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.addChecklistItem" xml:space="preserve" approved="no">
+<source>Incluir condição para submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.addItem" xml:space="preserve" approved="no">
+<source>Incluir item</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.addItemtoAboutJournal" xml:space="preserve" approved="no">
+<source>Incluir item na página "Sobre a revista"</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.addNavItem" xml:space="preserve" approved="no">
+<source>Incluir item</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.addReviewerDatabaseLink" xml:space="preserve" approved="no">
+<source>Incluir nova base de dados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.addSponsor" xml:space="preserve" approved="no">
+<source>Incluir agência de fomento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.alternateHeader" xml:space="preserve" approved="no">
+<source>Cabeçalho alternativo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.alternateHeaderDescription" xml:space="preserve" approved="no">
+<source>Pode-se incluir um cabeçalho em HTML, para substituir o padrão. Deixar em branco caso não seja utilizado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.announcements" xml:space="preserve" approved="no">
+<source>Notícias</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.announcementsDescription" xml:space="preserve" approved="no">
+<source>Notícias podem ser publicadas para informar leitores sobre novidades e eventos, disponíveis na página de notícias.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.announcementsIntroduction" xml:space="preserve" approved="no">
+<source>Informação adicional</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.announcementsIntroductionDescription" xml:space="preserve" approved="no">
+<source>Digite um texto introdutório, ou qualquer informação desejada, a ser exibida aos leitores na página de notícias.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.appearInAboutJournal" xml:space="preserve" approved="no">
+<source>(Para inclusão na página Sobre a revista)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.competingInterests.requireAuthors" xml:space="preserve" approved="no">
+<source>Exigir dos autores o registro de conflito de interesses (CI) junto com a submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.competingInterests.requireReviewers" xml:space="preserve" approved="no">
+<source>Exigir dos avaliadores registro de conflito de interesses com cada avaliação realizada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.copyeditInstructions" xml:space="preserve" approved="no">
+<source>Instruções para edição de texto</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.copyeditInstructionsDescription" xml:space="preserve" approved="no">
+<source>As instruções para edição de texto estarão disponíveis aos editores de texto, autores e editores de seção, no estágio de Edição da submissão. A seguir está um padrão de instruções em HTML, que pode ser modificado ou substituído pelo Gerente da revista a qualquer momento (em HTML ou texto simples).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.copyrightNotice" xml:space="preserve" approved="no">
+<source>Declaração de Direito Autoral</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.coverage" xml:space="preserve" approved="no">
+<source>Cobertura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.coverageDescription" xml:space="preserve" approved="no">
+<source>Referente à cobertura geoespacial, cronológica ou histórica, e/ou características da pesquisa.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.currentIssue" xml:space="preserve" approved="no">
+<source>Edição Atual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.customizingTheLook" xml:space="preserve" approved="no">
+<source>Passo 5. Visual da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.customTags" xml:space="preserve" approved="no">
+<source>Tags META personalizadas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.customTagsDescription" xml:space="preserve" approved="no">
+<source>Tags META, inseridas no cabeçalho HTML das páginas do sistema.&lt;/message&gt;
+	&lt;message key="manager.setup.details"&gt;Detalhes&lt;/message&gt;
+	&lt;message key="manager.setup.details.description"&gt;Nome da revista, ISSN, contatos, editora e patrocinadores e sistemas de busca.&lt;/message&gt;
+	&lt;message key="manager.setup.disableUserRegistration"&gt;O Gerente da Revista é responsável por cadastrar todos os usuários, permitindo a editores e editores de seção cadastrar avaliadores.&lt;/message&gt;
+	&lt;message key="manager.setup.discipline"&gt;Área e sub-área de conhecimento acadêmico&lt;/message&gt;
+	&lt;message key="manager.setup.disciplineDescription"&gt;Recomendado para revistas e/ou trabalhos multidisciplinares.&lt;/message&gt;
+	&lt;message key="manager.setup.disciplineExamples"&gt;(Ex.: História; Educação; Sociologia; Psicologia; Direito; Ciência da Informação)&lt;/message&gt;
+	&lt;message key="manager.setup.disciplineProvideExamples"&gt;Informe exemplos de áreas do conhecimento relevantes para esta revista&lt;/message&gt;
+	&lt;message key="manager.setup.displayCurrentIssue"&gt;Incluir sumário na edição atual (se disponível).&lt;/message&gt;
+	&lt;message key="manager.setup.editorDecision"&gt;Decisão editorial&lt;/message&gt;
+	&lt;message key="manager.setup.emailBounceAddress"&gt;Endereço de retorno de e-mail&lt;/message&gt;
+	&lt;message key="manager.setup.emailBounceAddressDescription"&gt;Qualquer e-mail retornado (não recebido pelo destinatário) produzirá uma mensagem de erro encaminhada para o endereço definido aqui.&lt;/message&gt;
+	&lt;message key="manager.setup.emailBounceAddressDisabled"&gt;&lt;![CDATA[&lt;strong&gt;Aviso:&lt;/strong&gt; Para ativar esta opção, o administrador do portal deve habilitar a opção &lt;tt&gt;allow_envelope_sender&lt;/tt&gt; no documento de configuração do sistema. Configurações adicionais no servidor podem ser necessárias para suportar tal funcionalidade (pode não ser possível em todos os tipos de servidores!), como descrito na documentação do sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.emails" xml:space="preserve" approved="no">
+<source>Identificação de e-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.emailSignature" xml:space="preserve" approved="no">
+<source>Assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.emailSignatureDescription" xml:space="preserve" approved="no">
+<source>Os e-mails padrão enviados pelo sistema em nome da revista incluirão a seguinte assinatura no final. O corpo do texto pode ser editado na seção E-mails da Administração da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.enableAnnouncements" xml:space="preserve" approved="no">
+<source>Habilitar ferramenta de notícias a Editores-Gerentes.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.enableAnnouncementsHomepage1" xml:space="preserve" approved="no">
+<source>Exibir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.enableAnnouncementsHomepage2" xml:space="preserve" approved="no">
+<source>das notícias mais recentes na página inicial da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.enableUserRegistration" xml:space="preserve" approved="no">
+<source>Usuários visitantes podem se cadastrar na revista, assumindo um ou mais papéis.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.focusAndScope" xml:space="preserve" approved="no">
+<source>Foco e escopo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.forAuthorsToIndexTheirWork" xml:space="preserve" approved="no">
+<source>Indexação da submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.forAuthorsToIndexTheirWorkDescription" xml:space="preserve" approved="no">
+<source>O sistema adota o Protocolo para Coleta de Metadados do &lt;a href="http://www.openarchives.org/" target="_blank"&gt;Open Archives Initiative&lt;/a&gt;, que é um padrão emergente para proporcionar acesso com base na indexação a recursos eletrônicos de pesquisa em escala global. Os autores farão uso de um padrão similar para incluir os metadados da submissão. O Gerente da revista deverá escolher as categorias para indexação e apresentar aos autores exemplos relevantes para auxiliá-los na indexação, separando os termos com ponto-e-vírgula (Ex.: termo1; termo2). Os termos deverão ser apresentados como exemplos ao acessar a página, por meio das expressões "Ex." ou "Por exemplo,".</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.contactEmailRequired" xml:space="preserve" approved="no">
+<source>O e-mail do contato principal é obrigatório!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.contactNameRequired" xml:space="preserve" approved="no">
+<source>O nome do contato principal é obrigatório!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.journalInitialsRequired" xml:space="preserve" approved="no">
+<source>A sigla da revista é obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.journalTitleRequired" xml:space="preserve" approved="no">
+<source>O título da revista é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.numReviewersPerSubmission" xml:space="preserve" approved="no">
+<source>O número de avaliadores por submissão obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.supportEmailRequired" xml:space="preserve" approved="no">
+<source>O e-mail do suporte técnico é obrigatório!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.supportNameRequired" xml:space="preserve" approved="no">
+<source>O nome do suporte técnico é obrigatório!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.generalInformation" xml:space="preserve" approved="no">
+<source>Informações gerais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.gettingDownTheDetails" xml:space="preserve" approved="no">
+<source>Passo 1. Detalhes da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.guidelines" xml:space="preserve" approved="no">
+<source>Diretrizes</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.guidingSubmissions" xml:space="preserve" approved="no">
+<source>Passo 3. Diretrizes para submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.information" xml:space="preserve" approved="no">
+<source>Informação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.information.description" xml:space="preserve" approved="no">
+<source>Informações breves sobre a revista para bibliotecários, autores em potencial e leitores estão disponíveis na seção Informação na barra de ferramentas lateral.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.information.forAuthors" xml:space="preserve" approved="no">
+<source>Para Autores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.information.forLibrarians" xml:space="preserve" approved="no">
+<source>Para Bibliotecários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.information.forReaders" xml:space="preserve" approved="no">
+<source>Para Leitores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.initialIssue" xml:space="preserve" approved="no">
+<source>Edição inicial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.initialIssueDescription" xml:space="preserve" approved="no">
+<source>Dependendo do formato escolhido, informe a edição, volume e/ou ano da primeira edição a ser publicada no sistema:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.institution" xml:space="preserve" approved="no">
+<source>Instituição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.itemsDescription" xml:space="preserve" approved="no">
+<source>Podem ser incluídos outros itens na barra de navegação (CAPA, SOBRE, PÁGINA DO USUÁRIO, etc.) que aparece no topo da página.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.itemsPerPage" xml:space="preserve" approved="no">
+<source>Itens por página</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalAbbreviation" xml:space="preserve" approved="no">
+<source>Abreviatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalArchiving" xml:space="preserve" approved="no">
+<source>Arquivamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalHomepageContent" xml:space="preserve" approved="no">
+<source>Conteúdo da capa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalHomepageContentDescription" xml:space="preserve" approved="no">
+<source>A capa (página inicial) consiste de uma lista de atalhos (links). Conteúdo adicional à essa página pode ser incluída por meio de uma ou mais das opções a seguir, que aparecerão na ordem exibida. Note que a edição atual é sempre acessível pelo atalho Atual, disponível na barra de navegação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalHomepageHeader" xml:space="preserve" approved="no">
+<source>Cabeçalho da capa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalHomepageHeader.altText" xml:space="preserve" approved="no">
+<source>Cabeçalho da capa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalHomepageHeaderDescription" xml:space="preserve" approved="no">
+<source>Uma versão em formato de imagem do título e logotipo da revista (como .gif, .jpg, ou .png ) pode ser submetida, que substituirá a versão em texto que aparece como padrão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalInitials" xml:space="preserve" approved="no">
+<source>Sigla</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalLayout" xml:space="preserve" approved="no">
+<source>Visual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalLayoutDescription" xml:space="preserve" approved="no">
+<source>Escolha um visual e defina o posicionamento dos componentes. Uma folha de estilos (CSS) também pode ser enviada, podendo alterar os padrões do estilo geral do sistema e do visual (caso tenha sido escolhido).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalLogo" xml:space="preserve" approved="no">
+<source>Logotipo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalLogo.altText" xml:space="preserve" approved="no">
+<source>Logotipo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalPageFooter" xml:space="preserve" approved="no">
+<source>Rodapé</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalPageFooterDescription" xml:space="preserve" approved="no">
+<source>No rodapé da revista é possível incluir ou atualizar o conteúdo, inserindo código HTML, como outras barras de navegação, contadores, ou publicidade. O rodapé aparecerá em todas as páginas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalPolicies" xml:space="preserve" approved="no">
+<source>Passo 2. Políticas da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalSetup" xml:space="preserve" approved="no">
+<source>Configuração da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalSetupUpdated" xml:space="preserve" approved="no">
+<source>Configuração atualizada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalStyleSheetInvalid" xml:space="preserve" approved="no">
+<source>Formato de folha de estilo inválido. Formato aceitável é .css.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalTheme" xml:space="preserve" approved="no">
+<source>Tema para o visual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalTitle" xml:space="preserve" approved="no">
+<source>Título</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.labelName" xml:space="preserve" approved="no">
+<source>Rótulo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.layoutInstructions" xml:space="preserve" approved="no">
+<source>Instruções para layout</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.layoutInstructionsDescription" xml:space="preserve" approved="no">
+<source>Instruções para layout podem ser definidas para formatação e normalização de documentos e incluídas em HTML ou texto simples, tornando-se disponíveis ao editor de layout e ao editor de seção no estágio Edição de cada submissão. (Como cada revista pode adotar padrões, formatos de arquivos, padrões bibliográficos e de referência, folhas de estilo, próprios, não há um conjunto padrão de instruções disponível, e deverá ser informado.)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.layoutTemplates" xml:space="preserve" approved="no">
+<source>Templates de layout</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.layoutTemplatesDescription" xml:space="preserve" approved="no">
+<source>Templates podem ser enviadas ao servidor para exibição em Layout, para cada documento publicado na revista (ex.: artigo, revisão de literatura, etc.) utilizando qualquer formato de documento (ex.: pdf, doc, html, etc.) com anotações incluindo fonte, tamanho, margens, entre outras, como guias para os editores de layout e leitores de prova.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.layoutTemplates.file" xml:space="preserve" approved="no">
+<source>Arquivo template</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.layoutTemplates.title" xml:space="preserve" approved="no">
+<source>Título</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.lists" xml:space="preserve" approved="no">
+<source>Listas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.listsDescription" xml:space="preserve" approved="no">
+<source>Informe o número máximo de itens (por exemplo, submissões, usuários, ou tarefas editoriais) que aparecem em toda página de listagem, e o número de links por página a serem exibidos.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.lockssEnable" xml:space="preserve" approved="no">
+<source>Permitir ao LOCKSS armazenar e distribuir o conteúdo da revista a bibliotecas participantes por meio do &lt;a href="{$lockssUrl}" target="_blank"&gt;Manifesto de Publicação&lt;/a&gt; do LOCKSS. Uma licença LOCKSS aparecerá na página  Sobre a revista na seção Arquivamento:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.lockssRegister" xml:space="preserve" approved="no">
+<source>Identifique 6 a 10 bibliotecas que cadastrarão e guardarão o cache da revista. Por exemplo, escolha instituições às quais os editores ou Membros do Comitê já sejam associados, e/ou instituições já participantes do LOCKSS. Visite &lt;a href="http://www.lockss.org/community/" target="_blank"&gt;bibliotecas participantes&lt;/a&gt;. Utilize o convite preparado para (i) &lt;a href="{$lockssExistingArchiveUrl}" target="_blank"&gt;Bibliotecas participantes do LOCKSS&lt;/a&gt; ou (ii) &lt;a href="{$lockssNewArchiveUrl}" target="_blank"&gt;Bibliotecas NÃO participantes do LOCKSS&lt;/a&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.look" xml:space="preserve" approved="no">
+<source>Visual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.look.description" xml:space="preserve" approved="no">
+<source>Cabeçalho da capa, conteúdo, cabeçalho da revista, rodapé, barra de navegação e folha de estilo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.management" xml:space="preserve" approved="no">
+<source>Administração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.management.description" xml:space="preserve" approved="no">
+<source>Acesso e segurança, agendamento, avisos, edição de texto, layout e leitura de provas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.managementOfBasicEditorialSteps" xml:space="preserve" approved="no">
+<source>Administração dos passos básicos do processo editorial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.managingPublishingSetup" xml:space="preserve" approved="no">
+<source>Configurações administrativas e de publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.managingTheJournal" xml:space="preserve" approved="no">
+<source>Passo 4. Administração da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.navigationBar" xml:space="preserve" approved="no">
+<source>Barra de navegação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.navigationBarDescription" xml:space="preserve" approved="no">
+<source>Inclua ou exclua itens adicionais da barra de navegação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.navItemIsAbsolute" xml:space="preserve" approved="no">
+<source>A URL é absoluta (ex.: "http://www.exemplo.com") em vez de um caminho relativo no portal (ex.: "/manager/setup")</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.navItemIsLiteral" xml:space="preserve" approved="no">
+<source>O rótulo é um texto literal (ex.: "Administração da Revista") em vez de uma chave de tradução (ex.: "manager.setup.nav")</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.noImageFileUploaded" xml:space="preserve" approved="no">
+<source>Nenhuma imagem para exibição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.noStyleSheetUploaded" xml:space="preserve" approved="no">
+<source>Nenhuma Folha de Estilos enviada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.note" xml:space="preserve" approved="no">
+<source>Nota de agradecimento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.notifications.submissionAckDisabled" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;Aviso:&lt;/strong&gt; O e-mail de notificação de submissão está desativado. Para utilizar esta opção, ative o e-mail padrão SUBMISSION_ACK na configuração de &lt;a class="action" href="{$preparedEmailsUrl}"&gt;E-mails&lt;/a&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.numPageLinks" xml:space="preserve" approved="no">
+<source>Links de paginação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.onlineAccessManagement" xml:space="preserve" approved="no">
+<source>Acesso ao conteúdo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.onlineIssn" xml:space="preserve" approved="no">
+<source>ISSN Eletrônico</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.openAccess" xml:space="preserve" approved="no">
+<source>A revista oferecerá acesso livre ao seu conteúdo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.pageNumberIdentifier" xml:space="preserve" approved="no">
+<source>Opção de número de página</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.policies" xml:space="preserve" approved="no">
+<source>Políticas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.policies.description" xml:space="preserve" approved="no">
+<source>Foco, avaliação pelos pares, seções, privacidade, acesso, segurança e itens adicionais sobre da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.printIssn" xml:space="preserve" approved="no">
+<source>ISSN Impresso</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.proofingInstructions" xml:space="preserve" approved="no">
+<source>Instruções para leitura de provas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.proofingInstructionsDescription" xml:space="preserve" approved="no">
+<source>As instruções para leitura de provas estarão disponíveis aos leitores de prova, autores, editores de layout e editores de seção no estágio Edição da submissão. A seguir está um padrão de instruções em HTML, que pode ser modificado ou substituído pelo Gerente da Revista a qualquer tempo (em HTML ou texto simples).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.provideRefLinkInstructions" xml:space="preserve" approved="no">
+<source>Oferecer instruções aos editores de layout</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.publicationSchedule" xml:space="preserve" approved="no">
+<source>Periodicidade de publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.publicationScheduleDescription" xml:space="preserve" approved="no">
+<source>Os itens da revista podem ser publicados coletivamente, quando o sumário estiver pronto, ou individualmente, adicionando-se os mesmos ao sumário atual quando prontos. Informe os leitores, na página Sobre a revista, a respeito do formato adotado pela revista e a periodicidade de publicação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.publicationScheduling" xml:space="preserve" approved="no">
+<source>Periodicidade de publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.publicIdentifier" xml:space="preserve" approved="no">
+<source>Identificação do conteúdo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.publisher" xml:space="preserve" approved="no">
+<source>Editora</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.publisherDescription" xml:space="preserve" approved="no">
+<source>O nome da editora aparecerá na página Sobre a revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.referenceLinking" xml:space="preserve" approved="no">
+<source>Links para referências</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.refLinkInstructions.description" xml:space="preserve" approved="no">
+<source>Instruções de layout para links de referências</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.restrictArticleAccess" xml:space="preserve" approved="no">
+<source>Usuários devem se cadastrar e acessar o sistema para visualizar conteúdo de acesso livre.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.restrictSiteAccess" xml:space="preserve" approved="no">
+<source>Usuários devem se cadastrar e acessar o sistema para visualizar a página da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewGuidelines" xml:space="preserve" approved="no">
+<source>Diretrizes para avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewGuidelinesDescription" xml:space="preserve" approved="no">
+<source>As diretrizes para avaliação proporcionam um guia de critérios essencial para o julgamento da submissão e avaliar se está de acordo com as políticas e conteúdo da revista, assim como instruções especiais para preparar uma crítica eficaz, eficiente e construtiva. Ao realizar uma avaliação, estão disponíveis aos avaliadores dois campos de texto livre, o primeiro "para o autor e o editor" e o segundo "para o editor". Opcionalmente, o Gerente da Revista pode criar &lt;a href="{$reviewFormsUrl}" class="action"&gt;formulários de avaliação&lt;/a&gt;. Em qualquer caso, os editores terão a opção de incluir as avaliações aos autores em suas comunicações.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions" xml:space="preserve" approved="no">
+<source>Opções para avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.automatedReminders" xml:space="preserve" approved="no">
+<source>E-mails automatizados serão enviados ao avaliador (o editor também pode enviar lembretes ao avaliador)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.automatedRemindersDisabled" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;Aviso:&lt;/strong&gt; Para ativar estas opções, o administrador do portal deve habilitar a opção de &lt;tt&gt;scheduled_tasks&lt;/tt&gt; no documento de configuração do sistema. Configurações adicionais no servidor podem ser necessárias para suportar tais funcionalidades (pode não ser possível em todos os tipos de servidores!), como descrito na documentação do sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.blindReview" xml:space="preserve" approved="no">
+<source>Avaliação pelos pares cega</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.numWeeksPerReview" xml:space="preserve" approved="no">
+<source>Prazo padrão permitido para conlusão de uma avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.onQuality" xml:space="preserve" approved="no">
+<source>Editores poderão classificar avaliadores em uma escala de cinco pontos após cada avaliação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.restrictReviewerFileAccess" xml:space="preserve" approved="no">
+<source>Avaliadores terão acesso ao documento da submissão somente após indicar disponibilidade para avaliação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.reviewerAccess" xml:space="preserve" approved="no">
+<source>Área do avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.reviewerAccessKeysEnabled" xml:space="preserve" approved="no">
+<source>Habilitar acesso 1-clique</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.reviewerAccessKeysEnabled.description" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;Aviso:&lt;/strong&gt; O convite ao avaliador conterá uma URL especial que levará os avaliadores diretamente à página de avaliação da submissão em questão (sendo necessário realizar o login para acessar outras páginas). Para garantir a segurança do processo ao usar esta opção, não é permitido ao editor alterar endereços de e-mail ou incluir destinatários de Cópias Carbono (CCs) ou Cópias Ocultas (BCCs) antes de enviar a mensagem aos avaliadores.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.reviewerRatings" xml:space="preserve" approved="no">
+<source>Classificação de avaliadores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.reviewerReminders" xml:space="preserve" approved="no">
+<source>Lembretes aos avaliadores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewOptions.showEnsuringLink" xml:space="preserve" approved="no">
+<source>Oferecer links para informações sobre &lt;a href="javascript:openHelp('{$blindReviewHelpId}')" class="action"&gt;Assegurando a avaliação pelos pares cega&lt;/a&gt; nas páginas onde autores e avaliadores enviam documentos ao sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.reviewPolicy" xml:space="preserve" approved="no">
+<source>Política de avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.searchEngineIndexing" xml:space="preserve" approved="no">
+<source>Indexação para mecanismos de busca</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.searchEngineIndexingDescription" xml:space="preserve" approved="no">
+<source>Para auxiliar usuários de mecanismos de busca a descobrir sua revista, inclua uma breve descrição sobre a revista e palavras-chave relevantes (separadas por ponto-e-vírgula ";").</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.sectionsAndSectionEditors" xml:space="preserve" approved="no">
+<source>Seções e editores de seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.sectionsDefaultSectionDescription" xml:space="preserve" approved="no">
+<source>(Caso não sejam incluídas outras seções, todos os itens serão submetidos para Artigos.)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.sectionsDescription" xml:space="preserve" approved="no">
+<source>Para modificar as seções da revista (Ex.: Artigos, Resenhas, etc.), entre em Seções.&lt;br /&gt;&lt;br /&gt;Ao submeter documentos para a revista, os autores definirão:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.securitySettings" xml:space="preserve" approved="no">
+<source>Configurações de acesso e segurança</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.securitySettingsDescription" xml:space="preserve" approved="no">
+<source>O sistema oferece opções de segurança para restringir acesso ao conteúdo da revista, mantendo controles de atividade sobre a submissão para auditoria.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.selectEditorDescription" xml:space="preserve" approved="no">
+<source>O editor será responsável pelo processo editorial.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.selectSectionDescription" xml:space="preserve" approved="no">
+<source>A seção para qual o documento deverá ser considerado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.showGalleyLinksDescription" xml:space="preserve" approved="no">
+<source>Sempre exibir links para composições e indicar acesso restrito.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.siteAccess" xml:space="preserve" approved="no">
+<source>Restrições adicionais de acesso ao portal e aos artigos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.stepsToJournalSite" xml:space="preserve" approved="no">
+<source>Cinco passos para ter uma revista na Web</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.subjectExamples" xml:space="preserve" approved="no">
+<source>(Ex.: Fotossíntese; Buracos Negros; Arquitetura da Informação; Sistemas de Informação)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.subjectKeywordTopic" xml:space="preserve" approved="no">
+<source>Palavras-chave</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.subjectProvideExamples" xml:space="preserve" approved="no">
+<source>Informe exemplos de palavras-chave ou tópicos para auxiliar o autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.submissionGuidelines" xml:space="preserve" approved="no">
+<source>Diretrizes para submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.submissionPreparationChecklist" xml:space="preserve" approved="no">
+<source>Condições para a submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.submissionPreparationChecklistDescription" xml:space="preserve" approved="no">
+<source>Ao submeter um trabalho para a revista, os autores devem ler, aceitar e marcar como realizados cada condição para a submissão, antes de proceder. A lista de condições também é apresentada em Diretrizes para autores, na página Sobre a revista. A lista pode ser modificada, porém todos os itens requerem a marcação dos autores para procederem à submissão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.submissions" xml:space="preserve" approved="no">
+<source>Submissões</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.submissions.description" xml:space="preserve" approved="no">
+<source>Diretrizes para o autor, direito autoral e indexação (incluindo registro).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.subscription" xml:space="preserve" approved="no">
+<source>A revista terá controle de assinaturas para acesso ao seu conteúdo, ou parte dele.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.subscriptionDescription" xml:space="preserve" approved="no">
+<source>Ao habilitar o controle de assinaturas, deverá ser designado um gerente de assinaturas que terá acesso ao componente, permitindo definir as formas de acesso ao conteúdo, auto-arquivamento e notificações via e-mail.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.typeExamples" xml:space="preserve" approved="no">
+<source>(Ex.: Pesquisa Histórica; Revisão de Literatura; Pesquisa Empírica de Campo; Entrevista Controlada; Prototipagem)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.typeMethodApproach" xml:space="preserve" approved="no">
+<source>Tipo (Método/Processo/Enfoque)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.typeProvideExamples" xml:space="preserve" approved="no">
+<source>Informe exemplos de tipos relevantes de pesquisa, métodos e abordagens</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.uniqueIdentifier" xml:space="preserve" approved="no">
+<source>Identificador único</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.uniqueIdentifierDescription" xml:space="preserve" approved="no">
+<source>Artigos e edições podem receber um código ou texto identificador, empregando um sistema de registro como o Identificador de Objeto Digital (DOI).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.useEditorialReviewBoard" xml:space="preserve" approved="no">
+<source>Um comitê editorial/avaliador será utilizado pela revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.useImageTitle" xml:space="preserve" approved="no">
+<source>Título em formato de imagem</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.useJournalStyleSheet" xml:space="preserve" approved="no">
+<source>Folha de estilos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.userRegistration" xml:space="preserve" approved="no">
+<source>Cadastro de usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.useTextTitle" xml:space="preserve" approved="no">
+<source>Título em formato de texto</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics" xml:space="preserve" approved="no">
+<source>Estatísticas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.articleViews" xml:space="preserve" approved="no">
+<source>Visualizações de artigo (apenas para autores)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.count.accept" xml:space="preserve" approved="no">
+<source>Aceito</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.count.decline" xml:space="preserve" approved="no">
+<source>Rejeitado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.count.revise" xml:space="preserve" approved="no">
+<source>Submeter novamente</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.daysPerReview" xml:space="preserve" approved="no">
+<source>Tempo de avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.daysToPublication" xml:space="preserve" approved="no">
+<source>Tempo até a publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.description" xml:space="preserve" approved="no">
+<source>O sistema calcula as seguintes estatísticas para cada revista hospedada. A média "tempo de decisão" é calculada do dia da submissão (ou designação de uma versão para avaliação) até o dia da decisão editorial inicial, enquanto que a média "tempo para publicação" é calculada para submissões aceitas desde a data de envio para o sistema até sua publicação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.itemsPublished" xml:space="preserve" approved="no">
+<source>Itens publicados:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.makePublic" xml:space="preserve" approved="no">
+<source>Marcar itens a serem disponibilizados aos leitores em Sobre a revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.note" xml:space="preserve" approved="no">
+<source>Aviso: Percentuais para submissões avaliadas por pares podem não somar 100%, já que itens submetidos novamente podem ser aceitos, rejeitados ou ainda estarem em processo de avaliação ou edição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.numIssues" xml:space="preserve" approved="no">
+<source>Edições publicadas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.numSubmissions" xml:space="preserve" approved="no">
+<source>Total de submissões:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.peerReviewed" xml:space="preserve" approved="no">
+<source>Avaliados pelos pares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.registeredReaders" xml:space="preserve" approved="no">
+<source>Leitores cadastrados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.registeredUsers" xml:space="preserve" approved="no">
+<source>Usuários cadastrados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.reviewerCount" xml:space="preserve" approved="no">
+<source>Total de designados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.reviewers" xml:space="preserve" approved="no">
+<source>Avaliadores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.reviewerScore" xml:space="preserve" approved="no">
+<source>Pontuação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.reviewsPerReviewer" xml:space="preserve" approved="no">
+<source>Quantidade de avaliações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.selectSections" xml:space="preserve" approved="no">
+<source>Escolha as seções para calcular as estatísicas de avaliação pelos pares.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.statistics.subscriptions" xml:space="preserve" approved="no">
+<source>Assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies" xml:space="preserve" approved="no">
+<source>Políticas de assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.authorSelfArchive" xml:space="preserve" approved="no">
+<source>Política de auto-arquivamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.authorSelfArchiveDescription" xml:space="preserve" approved="no">
+<source>A política a seguir será exibida na página Sobre a revista, na seção Políticas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.delayedOpenAccess" xml:space="preserve" approved="no">
+<source>Acesso Livre adiado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription" xml:space="preserve" approved="no">
+<source>Mesmo com o uso de Acesso Livre adiado, os editores poderão escolher artigos de qualquer edição para Acesso Livre imediato.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription1" xml:space="preserve" approved="no">
+<source>As edições passadas desta revistas estarão disponíveis para Acesso Livre</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDescription2" xml:space="preserve" approved="no">
+<source>mês(es) após a pulicação da edição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.delayedOpenAccessDurationValid" xml:space="preserve" approved="no">
+<source>Escolha um tempo de duração válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.delayedOpenAccessPolicyDescription" xml:space="preserve" approved="no">
+<source>O texto a seguir será exibido na página Sobre a revista, no item Acesso Livre adiado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiry" xml:space="preserve" approved="no">
+<source>Expiração da assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryDescription" xml:space="preserve" approved="no">
+<source>Leitores podem perder acesso ao conteúdo exclusivo a assinantes na data do expiração da assinatura, ou podem manter acesso a conteúdo publicado anteriormente à expiração.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryFull" xml:space="preserve" approved="no">
+<source>Expiração total</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryFullDescription" xml:space="preserve" approved="no">
+<source>Leitores perdem acesso a todo o conteúdo exclusivo a assinantes na data de expiração.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryPartial" xml:space="preserve" approved="no">
+<source>Expiração parcial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryPartialDescription" xml:space="preserve" approved="no">
+<source>Leitores mantém acesso apenas a conteúdo publicado anteriormente à expiração. Novas publicação não permitirão acesso ao conteúdo exclusivo a assinantes.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderAfterWeeks1" xml:space="preserve" approved="no">
+<source>Notificar assinantes via e-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderAfterWeeks2" xml:space="preserve" approved="no">
+<source>semana(s) depois da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeWeeks1" xml:space="preserve" approved="no">
+<source>Notificar assinantes via e-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeWeeks2" xml:space="preserve" approved="no">
+<source>semana(s) antes da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminders" xml:space="preserve" approved="no">
+<source>Lembretes de expiração de assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryRemindersDescription" xml:space="preserve" approved="no">
+<source>Lembretes automáticos via e-mail (editáveis nas configurações da revista por editores-gerentes na opção E-mails) podem ser enviados aos assinantes tanto antes quanto depois da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryRemindersDisabled" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;Aviso:&lt;/strong&gt; Para ativar esta opção, o administrador do portal deverá habilitar a opção &lt;tt&gt;scheduled_tasks&lt;/tt&gt; no arquivo de configuração do sistema. Configurações adicionais no servidor podem ser necessárias para o funcionamento correto da opção (que pode não ser possível em todos os servidores!), como indicado na documentação do sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expirySelectOne" xml:space="preserve" approved="no">
+<source>Escolha uma opção:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.htmlInstructions" xml:space="preserve" approved="no">
+<source>Em caso de utilização de código HTML nas caixas de texto nas configurações (para tamanho de fonte, estilo da fonte, cor, entre outros), as quebras de linha "automáticas (return/enter)" no texto serão automaticamente tratados como &lt;tt&gt;&lt;br&gt;&lt;/tt&gt;. O Editor HTML funciona no Firefox.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.numMonthsAfterSubscriptionExpiryReminderValid" xml:space="preserve" approved="no">
+<source>Informe um número válido para o período de meses depois da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.numMonthsBeforeSubscriptionExpiryReminderValid" xml:space="preserve" approved="no">
+<source>Informe um número válido para o período de meses antes da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.numWeeksAfterSubscriptionExpiryReminderValid" xml:space="preserve" approved="no">
+<source>Informe um número válido para o período de semanas depois da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.numWeeksBeforeSubscriptionExpiryReminderValid" xml:space="preserve" approved="no">
+<source>Informe um número válido para o período de semanas antes da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.openAccessNotificationDescription" xml:space="preserve" approved="no">
+<source>Leitores cadastrados terão a opção de receber o sumário via e-mail quando a edição se tornar de Acesso Livre.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.openAccessNotificationDisabled" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;Aviso:&lt;/strong&gt; Para ativar esta opção, o administrador do portal deverá habilitar a opção &lt;tt&gt;scheduled_tasks&lt;/tt&gt; no arquivo de configuração do sistema. Configurações adicionais no servidor podem ser necessárias para o funcionamento correto da opção (que pode não ser possível em todos os servidores!), como indicado na documentação do sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.openAccessOptions" xml:space="preserve" approved="no">
+<source>Opções de Acesso Livre para revistas com assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.openAccessOptionsDescription" xml:space="preserve" approved="no">
+<source>Revistas com assinaturas podem oferecer "Acesso Livre adiado" e/ou "autoarquivamento pelo autor" (o que aumenta a leitura e citação do conteúdo!). As políticas escolhidas serão exibidas na página Sobre a revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.subscriptionAdditionalInformation" xml:space="preserve" approved="no">
+<source>Informação sobre assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.subscriptionAdditionalInformationDescription" xml:space="preserve" approved="no">
+<source>Os tipos de assinaturas e a estrutura de valores é exibida automaticamente em Assinaturas, da página Sobre a revista, junto com o nome do gerente de assinaturas e as formas de contato. Outras informações para assinantes, como as formas de pagamento ou auxílio a assinantes de países em desenvolvimento, por exemplo, podem ser incluídas aqui.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.subscriptionContact" xml:space="preserve" approved="no">
+<source>Gerente de assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.subscriptionContactDescription" xml:space="preserve" approved="no">
+<source>O contato a seguir será exibido em Assinaturas, na página Sobre a revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.subscriptionContactEmailValid" xml:space="preserve" approved="no">
+<source>Informe um e-mail válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions" xml:space="preserve" approved="no">
+<source>Assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.confirmDelete" xml:space="preserve" approved="no">
+<source>Deseja realmente excluir esta assinatura?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.create" xml:space="preserve" approved="no">
+<source>Incluir assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.createTitle" xml:space="preserve" approved="no">
+<source>Incluir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.dateEnd" xml:space="preserve" approved="no">
+<source>Expiração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.dateEndSearch" xml:space="preserve" approved="no">
+<source>Expiração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.dateStart" xml:space="preserve" approved="no">
+<source>Início</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.dateStartSearch" xml:space="preserve" approved="no">
+<source>Início</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.domain" xml:space="preserve" approved="no">
+<source>Dominio</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.edit" xml:space="preserve" approved="no">
+<source>Editar assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.editTitle" xml:space="preserve" approved="no">
+<source>Editar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.dateEnd" xml:space="preserve" approved="no">
+<source>Data final</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.dateEndRequired" xml:space="preserve" approved="no">
+<source>Data final obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.dateEndValid" xml:space="preserve" approved="no">
+<source>Escolha uma data final válida.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.dateStart" xml:space="preserve" approved="no">
+<source>Data inicial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.dateStartRequired" xml:space="preserve" approved="no">
+<source>Data inicial obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.dateStartValid" xml:space="preserve" approved="no">
+<source>Escolha uma data inicial válida.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.domain" xml:space="preserve" approved="no">
+<source>Domínio</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.domainInstructions" xml:space="preserve" approved="no">
+<source>Digite o domínio caso seja uma assinatura institucional. &lt;br /&gt;Caso o domínio seja informado, a faixa de IP é opcional. &lt;br /&gt;Somente nomes de domínio são válidos (ex.: lib.sfu.ca).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.domainIPRangeRequired" xml:space="preserve" approved="no">
+<source>O tipo de assinatura escolhido exige autenticação via domínio e/ou faixa de IP.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.domainValid" xml:space="preserve" approved="no">
+<source>Digite um domínio válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.ipRange" xml:space="preserve" approved="no">
+<source>Faixa de IP</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.ipRangeInstructions" xml:space="preserve" approved="no">
+<source>Digite a faixa de IP caso seja uma assinatura institucional. Caso uma faixa de IP seja informada, o domínio é opcional. Valores validos incluem um IP (ex.: 142.58.103.1), uma faixa de IP CIDR (ex.: 142.58.100.0/24), uma faixa de IP (ex.: 142.58.103.1 - 142.58.103.4), uma faixa de IP com coringa '*' (ex.: 142.58.103.*), ou qualquer combinação dessas opções separadas por ponto-e-vírgula (;) (ex.: 142.58.103.* - 142.58.107.* ; 142.58.108.1/24 ; 142.58.106.*)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.ipRangeValid" xml:space="preserve" approved="no">
+<source>Digite uma faixa de IP válida.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.membership" xml:space="preserve" approved="no">
+<source>Associado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.membershipInstructions" xml:space="preserve" approved="no">
+<source>Digite as informações de associado caso seja exigido pelo tipo de assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.membershipRequired" xml:space="preserve" approved="no">
+<source>O tipo de assinatura escolhido exige dados do associação a entidade de classe.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.notifyEmail" xml:space="preserve" approved="no">
+<source>Enviar e-mail com login e detalhes da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.notifyEmailValid" xml:space="preserve" approved="no">
+<source>Utilize a caixa de opção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.saveAndCreateAnother" xml:space="preserve" approved="no">
+<source>Salvar e incluir outra</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.subscriptionContactRequired" xml:space="preserve" approved="no">
+<source>Para enviar uma notificação via e-mail ao usuário, é necessário especificar, na administração da revista, o nome e endereço de e-mail do contato para assinaturas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.subscriptionExists" xml:space="preserve" approved="no">
+<source>O usuário já possui uma assinatura da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.typeId" xml:space="preserve" approved="no">
+<source>Tipo de assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.typeIdRequired" xml:space="preserve" approved="no">
+<source>O tipo de assinatura é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.typeIdValid" xml:space="preserve" approved="no">
+<source>Escolha um tipo de assinatura válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.userId" xml:space="preserve" approved="no">
+<source>Usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.userIdRequired" xml:space="preserve" approved="no">
+<source>Usuário obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.userIdValid" xml:space="preserve" approved="no">
+<source>Escolha um usuário válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.ipRange" xml:space="preserve" approved="no">
+<source>Faixa de IP</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.membership" xml:space="preserve" approved="no">
+<source>Assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.noneCreated" xml:space="preserve" approved="no">
+<source>Nenhuma assinatura incluída.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.select" xml:space="preserve" approved="no">
+<source>Cadastrar assinante</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.selectSubscriber.desc" xml:space="preserve" approved="no">
+<source>Editores-Gerentes, editores, editores de seção, editores de layout, editores de texto e leitores de prova terão automaticamente acesso ao conteúdo para assinantes.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.subscriptionCreatedSuccessfully" xml:space="preserve" approved="no">
+<source>Assinatura incluída com sucesso.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.subscriptionType" xml:space="preserve" approved="no">
+<source>Tipo de assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.user" xml:space="preserve" approved="no">
+<source>Usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes" xml:space="preserve" approved="no">
+<source>Tipos de assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.confirmDelete" xml:space="preserve" approved="no">
+<source>AVISO! Todas assinaturas deste tipo serão excluídas. Deseja realmente excluir este tipo de assinatura?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.cost" xml:space="preserve" approved="no">
+<source>Valor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.create" xml:space="preserve" approved="no">
+<source>Incluir novo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.createTitle" xml:space="preserve" approved="no">
+<source>Incluir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.duration" xml:space="preserve" approved="no">
+<source>Vigência</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.edit" xml:space="preserve" approved="no">
+<source>Editar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.editTitle" xml:space="preserve" approved="no">
+<source>Editar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.cost" xml:space="preserve" approved="no">
+<source>Taxa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.costInstructions" xml:space="preserve" approved="no">
+<source>Digite um valor numérico(ex.: 40 ou 40.00). Não incluir textos ou símbolos como "$".</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.costNumeric" xml:space="preserve" approved="no">
+<source>O valor deve ser um número positivo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.costRequired" xml:space="preserve" approved="no">
+<source>A taxa da assinatura é obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.currency" xml:space="preserve" approved="no">
+<source>Moeda</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.currencyRequired" xml:space="preserve" approved="no">
+<source>A moeda é obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.currencyValid" xml:space="preserve" approved="no">
+<source>Escolha uma moeda válida.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.description" xml:space="preserve" approved="no">
+<source>Descrição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.duration" xml:space="preserve" approved="no">
+<source>Vigência</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.durationInstructions" xml:space="preserve" approved="no">
+<source>A vigência da assinatura, em meses (ex.: 12).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.durationNumeric" xml:space="preserve" approved="no">
+<source>A vigência deve ser um número positivo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.durationRequired" xml:space="preserve" approved="no">
+<source>Vigência obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.format" xml:space="preserve" approved="no">
+<source>Formato</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.formatRequired" xml:space="preserve" approved="no">
+<source>Formato obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.formatValid" xml:space="preserve" approved="no">
+<source>Escolha um formato válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.institutional" xml:space="preserve" approved="no">
+<source>Assinantes serão validados por meio de domínio ou autenticação de IP.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.institutionalValid" xml:space="preserve" approved="no">
+<source>Utilize a caixa de opção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.membership" xml:space="preserve" approved="no">
+<source>Assinantes deverão ser membros de uma associação, organização ou entidade de classe.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.membershipValid" xml:space="preserve" approved="no">
+<source>Utilize a caixa de opção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.public" xml:space="preserve" approved="no">
+<source>Tipo de assinatura NÃO será exibido em Assinaturas, na página Sobre a revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.publicValid" xml:space="preserve" approved="no">
+<source>Utilize a caixa de opção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.saveAndCreateAnotherType" xml:space="preserve" approved="no">
+<source>Salvar e incluir outro</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.typeName" xml:space="preserve" approved="no">
+<source>Nome</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.typeNameExists" xml:space="preserve" approved="no">
+<source>Nome do tipo de assinatura já existente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.typeNameRequired" xml:space="preserve" approved="no">
+<source>Nome obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.name" xml:space="preserve" approved="no">
+<source>Tipo de assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.noneCreated" xml:space="preserve" approved="no">
+<source>Nenhum tipo de assinatura disponível.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.subscriptionTypeCreatedSuccessfully" xml:space="preserve" approved="no">
+<source>Tipo de assinatura incluída com sucesso.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.language.ui" xml:space="preserve" approved="no">
+<source>Interface do usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.language.forms" xml:space="preserve" approved="no">
+<source>Formulários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.people.showNoRole" xml:space="preserve" approved="no">
+<source>Exibir usuários sem papéis</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.wordCount" xml:space="preserve" approved="no">
+<source>Contar palavras</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.wordCountInstructions" xml:space="preserve" approved="no">
+<source>Limitar a quantidade de palavras do resumo para esta seção (0 para ilimitado):</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.history" xml:space="preserve" approved="no">
+<source>Histórico da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.historyDescription" xml:space="preserve" approved="no">
+<source>Este texto aparecerá na seção "Sobre" da revista e pode ser usado para detalhar mudanças de título, corpo editorial e outros itens de relevância na história da publicação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.noPublishing" xml:space="preserve" approved="no">
+<source>O sistema não será usado para publicar o conteúdo da revista online.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.onlinePaymentNotifications" xml:space="preserve" approved="no">
+<source>Notificações de pagamento online</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.onlinePaymentNotificationsDescription" xml:space="preserve" approved="no">
+<source>Notificações automáticas via e-mail (disponíveis para personalização pelo Gerente da Revista na seção E-mails) podem ser enviados ao gerente de assinaturas após a conclusão de pagamentos online.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationPurchaseIndividual" xml:space="preserve" approved="no">
+<source>Notificar o gerente de assinaturas via e-mail após a realização de um pagamento de assinatura individual online.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationPurchaseInstitutional" xml:space="preserve" approved="no">
+<source>Notificar o gerente de assinaturas via e-mail após a realização de um pagamento de assinatura institucional online.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationRenewIndividual" xml:space="preserve" approved="no">
+<source>Notificar via e-mail o gerente de assinaturas quando ocorrer renovação de assinatura individual.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.enableSubscriptionOnlinePaymentNotificationRenewInstitutional" xml:space="preserve" approved="no">
+<source>Notificar via e-mail o gerente de assinaturas quando ocorrer renovação de assinatura institucional.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.onlinePaymentPurchaseInstitutionalDescription" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;Aviso:&lt;/strong&gt; Assinaturas institucionais adquiridas online exigem aprovação do domínio informado e das faixas de IP, além da ativação da assinatura pelo gerente de assinaturas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.onlinePaymentDisabled" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;Aviso:&lt;/strong&gt; Para habilitar estas opções, o Gerente da Revista deve habilitar o módulo de pagamentos online, incluindo os pagamentos online para assinaturas, em Taxas para leitores.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.individualSubscriptions" xml:space="preserve" approved="no">
+<source>Individuais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.institutionalSubscriptions" xml:space="preserve" approved="no">
+<source>Institucionais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.summary" xml:space="preserve" approved="no">
+<source>Visão geral</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.renew" xml:space="preserve" approved="no">
+<source>Renovar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.withStatus" xml:space="preserve" approved="no">
+<source>Com situação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.allStatus" xml:space="preserve" approved="no">
+<source>Todas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.status" xml:space="preserve" approved="no">
+<source>Situação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.statusRequired" xml:space="preserve" approved="no">
+<source>A situação da assinatura é obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.statusValid" xml:space="preserve" approved="no">
+<source>Escolha uma situação válida.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.userProfileInstructions" xml:space="preserve" approved="no">
+<source>Nota: Todas as alterações abaixo serão aplicadas ao perfil de forma geral no sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.userContact" xml:space="preserve" approved="no">
+<source>Contato</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.userCountryValid" xml:space="preserve" approved="no">
+<source>Informe um país válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.referenceNumber" xml:space="preserve" approved="no">
+<source>Código de referência</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.notes" xml:space="preserve" approved="no">
+<source>Notas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.institutionName" xml:space="preserve" approved="no">
+<source>Instituição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.institutionNameRequired" xml:space="preserve" approved="no">
+<source>O nome da instituição é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.institutionMailingAddress" xml:space="preserve" approved="no">
+<source>Endereço postal</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.ipRangeItem" xml:space="preserve" approved="no">
+<source>&amp;#8226;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.deleteIpRange" xml:space="preserve" approved="no">
+<source>Excluir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.addIpRange" xml:space="preserve" approved="no">
+<source>Incluir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.form.typeRequired" xml:space="preserve" approved="no">
+<source>Um tipo de assinatura deve ser criado antes de criar novas assinaturas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.referenceNumber" xml:space="preserve" approved="no">
+<source>Código de referência</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.notes" xml:space="preserve" approved="no">
+<source>Notas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.selectContact" xml:space="preserve" approved="no">
+<source>Escolha o contato para assinantes</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.selectUser" xml:space="preserve" approved="no">
+<source>Escolha o usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.contact" xml:space="preserve" approved="no">
+<source>Nome do contato</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptions.institutionName" xml:space="preserve" approved="no">
+<source>Instituição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.subscriptions" xml:space="preserve" approved="no">
+<source>Assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.individual" xml:space="preserve" approved="no">
+<source>Individual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.institutional" xml:space="preserve" approved="no">
+<source>Institucional</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.nonExpiring.expiresAfter" xml:space="preserve" approved="no">
+<source>Vencimento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.nonExpiring.months" xml:space="preserve" approved="no">
+<source>meses (ex.: 12)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.nonExpiring.neverExpires" xml:space="preserve" approved="no">
+<source>Nunca vence</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.nonExpiringValid" xml:space="preserve" approved="no">
+<source>Utilize as opções oferecidas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.subscriptions" xml:space="preserve" approved="no">
+<source>Assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.individual" xml:space="preserve" approved="no">
+<source>Individual (usuários validados via login)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionTypes.form.options" xml:space="preserve" approved="no">
+<source>Opções</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.language.submissions" xml:space="preserve" approved="no">
+<source>Submissões</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.payment.options.purchaseIssueFee" xml:space="preserve" approved="no">
+<source>Adquirir edição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.confirmDelete" xml:space="preserve" approved="no">
+<source>Deseja realmente exluir permanentemente esta seção?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.sections.alertDelete" xml:space="preserve" approved="no">
+<source>Antes de pode excluir esta seção, é necessário mover os artigos publicados nela para outras seções.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalThumbnail" xml:space="preserve" approved="no">
+<source>Miniatura da publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.useThumbnail" xml:space="preserve" approved="no">
+<source>Miniatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.defaultMetricDescription" xml:space="preserve" approved="no">
+<source>O periódico está configurado para registrar mais de uma métrica de uso. Estatísticas de uso serão exibidas em vários contextos.
+Poderão ser usados estatísticas individuais de uso, por exemplo, para exibir uma lista ordenada dos artigos mais usados ou para classificar resultados de pesquisa. Escolha uma das métricas configuradas como padrão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.reports.defaultReport.articleDownloads" xml:space="preserve" approved="no">
+<source>Download de arquivos do artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.reports.defaultReport.articleAbstract" xml:space="preserve" approved="no">
+<source>Acessos à página de resumo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.reports.defaultReport.articleAbstractAndDownloads" xml:space="preserve" approved="no">
+<source>Resumos e downloads</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.reports.defaultReport.journalIndexPageViews" xml:space="preserve" approved="no">
+<source>Acessos à capa do periódico</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.reports.filters.byContext.description" xml:space="preserve" approved="no">
+<source>Restringir resultados por contexto</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.reports.filters.byObject.description" xml:space="preserve" approved="no">
+<source>Restrinja os resultados por tipo de objeto (periódico, edição, artigo, composições finais em pdf, ou outros tipos) e/ou por um ou mais IDs de objeto.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.resetPermissions" xml:space="preserve" approved="no">
+<source>Redefinir Permissões do Artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.resetPermissions.description" xml:space="preserve" approved="no">
+<source>Declarações de direitos autorais e informações sobre licença são permanentemente associados ao conteúdo publicado, garantindo que esses dados não mudem no caso de uma revista mudar as políticas relativas aos novos pedidos. Para redefinir informação sobre permissões já associadas aos conteúdos publicados, use o botão abaixo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.copyrightYearBasis" xml:space="preserve" approved="no">
+<source>Basear direitos autorais de novos artigos no ano</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.categories" xml:space="preserve" approved="no">
+<source>Categorias</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.categories.description" xml:space="preserve" approved="no">
+<source>Escolha a categoria mais apropria da lista apresentada. Leitores poderão navegar por categoria a partir do conjunto completo oferecido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.website.archiving" xml:space="preserve" approved="no">
+<source>Arquivamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.section.noSectionEditors" xml:space="preserve" approved="no">
+<source>Ainda não existem editores de sessão. Designe este papel a ao menos um usuário por meio de Gerente &gt; Cnfigurações &gt; Usuários e Papéis.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.masthead" xml:space="preserve" approved="no">
+<source>Equipe Editorial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.editorialTeam" xml:space="preserve" approved="no">
+<source>Equipe Editorial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.editorialTeam.description" xml:space="preserve" approved="no">
+<source>A Equipe Editorial contem uma lista de editores, diretores, gerentes e outros indivíduos associados à revista. As informações cadastradas aqui aparecerão na seção "Sobre" da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.homepageContent" xml:space="preserve" approved="no">
+<source>Página Inicial da Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.homepageContentDescription" xml:space="preserve" approved="no">
+<source>A página inicial da revista consiste em links de navegação por padrão. Conteúdo adicional pode ser anexado usando uma ou todas as seguintes opções, que aparecerão na ordem mostrada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.layout" xml:space="preserve" approved="no">
+<source>Leiaute da Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.useStyleSheet" xml:space="preserve" approved="no">
+<source>Folha de estilos da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.contextName" xml:space="preserve" approved="no">
+<source>Título da Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.pageHeader" xml:space="preserve" approved="no">
+<source>Cabeçalho</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.includeCreativeCommons" xml:space="preserve" approved="no">
+<source>Para periódicos que oferecem acesso livre imediato ou adiado, inclua uma licença Creative Commons com todo o material na data de publicação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.Issn" xml:space="preserve" approved="no">
+<source>ISSN</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.enableSubscriptionExpiryReminderBeforeMonthsValid" xml:space="preserve" approved="no">
+<source>Habilite a caixa de opção disponível.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderAfterMonths1" xml:space="preserve" approved="no">
+<source>Notificar assinantes via e-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderAfterMonths2" xml:space="preserve" approved="no">
+<source>mês(es) após a expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeMonths1" xml:space="preserve" approved="no">
+<source>Notificar assinantes via e-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.subscriptionPolicies.expiryReminderBeforeMonths2" xml:space="preserve" approved="no">
+<source>mês(es) antes da expiração da assinatura.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.focusAndScope.description" xml:space="preserve" approved="no">
+<source>Descreva aos autores, leitores e bibliotecários a gama de artigos e outros itens a revista vai publicar.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.form.issnInvalid" xml:space="preserve" approved="no">
+<source>O ISSN especificado não é válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalSummary" xml:space="preserve" approved="no">
+<source>Resumo da Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalSummary.description" xml:space="preserve" approved="no">
+<source>Uma breve descrição da sua revista que pode ser exibido em lista de revistas. Em torno de um parágrafo é suficiente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalAbout" xml:space="preserve" approved="no">
+<source>Sobre a Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalAbout.description" xml:space="preserve" approved="no">
+<source>Incluea qualquer informação sobre a revista que pode ser de interesse para os leitores, autores ou colaboradores. Isso poderia incluir a sua política de acesso aberto, o foco e o escopo da revista, aviso de direitos autorais, a divulgação de patrocínio, a história da revista, uma declaração de privacidade, e inclusão em qualquer sistema de arquivo LOCKSS ou CLOCKSS.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.favicon" xml:space="preserve" approved="no">
+<source>Favicon da Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.faviconDescription" xml:space="preserve" approved="no">
+<source>Adicionar um ícone para esta revista que é exibido ao lado da barra de navegação quando os usuários estão visitando seu site.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.faviconInvalid" xml:space="preserve" approved="no">
+<source>Formato favicon inválido. Formatos aceitos são .ico, .png e .gif.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalThumbnail.description" xml:space="preserve" approved="no">
+<source>Um pequeno logotipo ou representação da revista que pode ser usado em listas de revistas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.journalThumbnail.altText" xml:space="preserve" approved="no">
+<source>Texto alternativo para miniaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.enableArchive" xml:space="preserve" approved="no">
+<source>Habilitar Arquivamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.lockssLicenseDescription" xml:space="preserve" approved="no">
+<source>Uma licença LOCKSS aparecerá na seção Sobre a Revista sob Arquivamento: &lt;a href="http://www.lockss.org/community/publishers-titles-gln/" target="_blank"&gt; Licença  LOCKSS &lt;/a&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.lockssLicenseLabel" xml:space="preserve" approved="no">
+<source>Descrição da Licença LOCKSS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.lockssTitle" xml:space="preserve" approved="no">
+<source>LOCKSS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.clockssEnable" xml:space="preserve" approved="no">
+<source>Ativar CLOCKSS para armazenar e distribuir conteúdo da revista em bibliotecas participantes através de um &lt;a href="{$clockssUrl}" target="_blank"&gt;Manifesto do Editor&lt;/a&gt; page.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.clockssLicenseDescription" xml:space="preserve" approved="no">
+<source>Uma licença CLOCKSS aparecerá na seção Sobre a Revista sob Arquivamento: &lt;a href="http://clockss.org/" target="_blank"&gt;Licença CLOCKSS &lt;/a&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.clockssLicenseLabel" xml:space="preserve" approved="no">
+<source>Descrição da Licença CLOCKSS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.clockssRegister" xml:space="preserve" approved="no">
+<source>Assine o serviço CLOCKSS visitando &lt;a href="http://clockss.org/" target="_blank"&gt; o site CLOCKSS &lt;/a&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.clockssTitle" xml:space="preserve" approved="no">
+<source>CLOCKSS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.statistics.reports.defaultReport.issuePageViews" xml:space="preserve" approved="no">
+<source>Visualizações do sumário da edição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.distribution.access" xml:space="preserve" approved="no">
+<source>Acesso</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.settings.journalDescription" xml:space="preserve" approved="no">
+<source>Todas as configurações específicas para a revista (editorial, contato, políticas, diretrizes, filiação e apoio, categorias e séries).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.settings.publicationDescription" xml:space="preserve" approved="no">
+<source>Todas as configurações específicas para o processo de publicação (configurações gerais, fase de envio do manuscrito, avaliação, estágio editorial, estágio de produção, modelos de email).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.settings.websiteDescription" xml:space="preserve" approved="no">
+<source>Todas as configurações específicas para as páginas do site público (página inicial, a aparência, idiomas)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.settings.distributionDescription" xml:space="preserve" approved="no">
+<source>Todas as configurações específicas para o processo de distribuição (notificação, indexação, arquivamento, pagamento, ferramentas de leitura).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.category.path" xml:space="preserve" approved="no">
+<source>Caminho</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addSection" xml:space="preserve" approved="no">
+<source>Adicionar Seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.section.description" xml:space="preserve" approved="no">
+<source>Artigos dentro de edições publicadas de uma revista são organizados em seções, agrupadas tipicamente por tema ou tipo de conteúdo (por exemplo, Artigos de Revisão, Pesquisa, etc).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="settings.roles.gridDescription" xml:space="preserve" approved="no">
+<source>Os papéis são grupos de usuários na revista que têm acesso a diferentes níveis de permissão e fluxos de trabalho associados dentro da revista. Há cinco níveis de permissão diferentes: Gerentes da Revista, que têm acesso a tudo na revista (todos os conteúdos e definições); Editores da Revista, que têm acesso a todo o conteúdo dentro da sua série; Assistentes da Revista, que têm acesso a todas os manuscritos que foram explicitamente atribuídos a eles por um editor; Os Avaliadores, que podem ver e executar as avaliações que lhes foram atribuídas; e Autores, que podem ver e interagir com uma quantidade limitada de informações sobre suas próprias submissões. Além disso, existem cinco estágios diferentes que os papéis podem ter acesso a: Envio, Avaliação Interna, a Avaliação Externa, Editorial e Produção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.publication.library" xml:space="preserve" approved="no">
+<source>Biblioteca da Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.copyrightYearBasis.article" xml:space="preserve" approved="no">
+<source>Artigo: o ano padrão será definido a partir da data da publicação do artigo, como numa publicação continuada (publish-as-you-go).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.copyrightYearBasis.issue" xml:space="preserve" approved="no">
+<source>Edição: o ano padrão será definido a partir da data de publicação da edição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.resetPermissions.confirm" xml:space="preserve" approved="no">
+<source>Tem certeza de que deseja redefinir os dados de permissões já atribuídos aos artigos?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.genres.title.short" xml:space="preserve" approved="no">
+<source>Componentes</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.genres.title" xml:space="preserve" approved="no">
+<source>Componentes do Artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.genres.description" xml:space="preserve" approved="no">
+<source>Estes componentes são utilizados para fins de atribuição de nomes de arquivo e são apresentados em um menu suspenso no upload dos arquivos. Os gêneros designados ## permitem que o usuário para associar o arquivo com qualquer toda a apresentação 99Z ou um componente específico em número (por exemplo, 02).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.settings" xml:space="preserve" approved="no">
+<source>Configurações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.settings.DOIPluginSettings" xml:space="preserve" approved="no">
+<source>Configurações do Plugin DOI</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.export.articles" xml:space="preserve" approved="no">
+<source>Artigos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.export.issues" xml:space="preserve" approved="no">
+<source>Edições</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.missingRequirements" xml:space="preserve" approved="no">
+<source>Requisitos do plugin não fora atendidos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.error.DOIsNotAvailable" xml:space="preserve" approved="no">
+<source>Para utilizar este plugin, por favor vá para a categoria de plugins de "Identificação Pública", habilite e configure o plug-in DOI e especifique um prefixo DOI válido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.error.pluginNotConfigured" xml:space="preserve" approved="no">
+<source>O plugin não foi completamento configurado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.settings.form.password" xml:space="preserve" approved="no">
+<source>Senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.settings.form.password.description" xml:space="preserve" approved="no">
+<source>Por favor, note que a senha será guardada como texto simples, isto é, não criptografado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.filter.issue" xml:space="preserve" approved="no">
+<source>Qualquer Edição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.status.any" xml:space="preserve" approved="no">
+<source>Qualquer Status</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.status.notDeposited" xml:space="preserve" approved="no">
+<source>Não Depositado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.status.markedRegistered" xml:space="preserve" approved="no">
+<source>Marcado como registrado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.action" xml:space="preserve" approved="no">
+<source>Ação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.action.export" xml:space="preserve" approved="no">
+<source>Exportar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.action.markRegistered" xml:space="preserve" approved="no">
+<source>Marcar como registrado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.action.register" xml:space="preserve" approved="no">
+<source>Registrar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.action.checkStatus" xml:space="preserve" approved="no">
+<source>Verificar Status</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.error.noObjectsSelected" xml:space="preserve" approved="no">
+<source>Sem objetos selecionados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.error.validation" xml:space="preserve" approved="no">
+<source>Não foi possível converter os objetos selecionados.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.export.error.outputFileNotWritable" xml:space="preserve" approved="no">
+<source>O arquivo de saída {$param} não é gravável.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.register.error.mdsError" xml:space="preserve" approved="no">
+<source>O registo não foi bem sucedido! O servidor de registro DOI retornou um erro: '{$param}'</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.register.success" xml:space="preserve" approved="no">
+<source>Registrado com sucesso!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.export.representations" xml:space="preserve" approved="no">
+<source>Composições Finais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.error.noDOIContentObjects" xml:space="preserve" approved="no">
+<source>Nenhum objeto publicável foi selecionado para receber DOI no plugin corrrespondente, então não há possibilidade de depósito ou exportação neste plugin.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.status.registered" xml:space="preserve" approved="no">
+<source>Registrado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.validation" xml:space="preserve" approved="no">
+<source>Sem objetos selecionados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.invalidXML" xml:space="preserve" approved="no">
+<source>XML inválido:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.export.error.inputFileNotReadable" xml:space="preserve" approved="no">
+<source>O arquivo de entrada {$param} não é legível.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.senderTask.warning.noDOIprefix" xml:space="preserve" approved="no">
+<source>O prefixo DOI está faltando para a revista com o caminho {$path}.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.cliError" xml:space="preserve" approved="no">
+<source>ERRO:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.error.unknownJournal" xml:space="preserve" approved="no">
+<source>O caminho da revista expecificado, "{$journalPath}", não existe.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.common.error.unknownObjects" xml:space="preserve" approved="no">
+<source>Os objetos especificados não puderam ser encontrados.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="manager.setup.notifications.copyPrimaryContact" xml:space="preserve" approved="no">
+<source>Enviar uma cópia para o contato principal, identificado nas Configurações da Revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.paymethod.manual.displayName" xml:space="preserve" approved="no">
+<source>Controle de pagamento manual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.description" xml:space="preserve" approved="no">
+<source>O responsável registrará o recebimento do pagamento pelo usuário.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual" xml:space="preserve" approved="no">
+<source>Registro de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.settings" xml:space="preserve" approved="no">
+<source>Configurações para controle de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.settings.instructions" xml:space="preserve" approved="no">
+<source>Instruções</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.settings.manualInstructions" xml:space="preserve" approved="no">
+<source>Instruções para usuários que escolhem o método de pagamento manual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.purchase.title" xml:space="preserve" approved="no">
+<source>Título</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.purchase.fee" xml:space="preserve" approved="no">
+<source>Taxa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.sendNotificationOfPayment" xml:space="preserve" approved="no">
+<source>Enviar notificação de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.paymentNotification" xml:space="preserve" approved="no">
+<source>Notificação de pagamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.paymethod.manual.notificationSent" xml:space="preserve" approved="no">
+<source>Notificação de pagamento enviada</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>
