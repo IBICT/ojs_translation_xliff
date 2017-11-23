@@ -1,0 +1,582 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="user.accountInformation" xml:space="preserve" approved="no">
+<source>Informações de cadastro</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.affiliation" xml:space="preserve" approved="no">
+<source>Instituição/Afiliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.affiliation.description" xml:space="preserve" approved="no">
+<source>(Sua instituição, por exemplo "Simon Fraser University")</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.affiliations" xml:space="preserve" approved="no">
+<source>Outras Afiliações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.accessDenied" xml:space="preserve" approved="no">
+<source>Acesso negado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.processAuthenticationTokenRequired" xml:space="preserve" approved="no">
+<source>O verificador do processo de autenticação está faltando ou é inválido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.contextRequired" xml:space="preserve" approved="no">
+<source>Não é possível executar esta operação sem um contexto (impresso, periódico, conferência, entre outros).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.loginRequired" xml:space="preserve" approved="no">
+<source>Login obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.privateOperation" xml:space="preserve" approved="no">
+<source>A operação acessada é privada ou não existe.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.restrictedSiteAccess" xml:space="preserve" approved="no">
+<source>Seu acesso foi negado. Acesso a esta página está atualmente bloqueado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.roleBasedAccessDenied" xml:space="preserve" approved="no">
+<source>O papel atual não possui permissão para realizar esta operação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.userGroupRequired" xml:space="preserve" approved="no">
+<source>É necessário definir um grupo de usuário válido para acessar esta operação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.managerRequired" xml:space="preserve" approved="no">
+<source>Um usuário com papel de Gerente (Editor da Revista ou Editor de Leiaute, por exemplo) deve ser designado ao estágio antes de proceder.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.accessibleWorkflowStage" xml:space="preserve" approved="no">
+<source>Atualmente você não possui acesso a este estágio do fluxo de trabalho.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.workflowStageRequired" xml:space="preserve" approved="no">
+<source>Um estágio do fluxo de trabalho não foi especificado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.authorization.pluginRequired" xml:space="preserve" approved="no">
+<source>Um plugin não foi especificado mas é requerido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.biography" xml:space="preserve" approved="no">
+<source>Resumo da Biografia</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.changeMyPassword" xml:space="preserve" approved="no">
+<source>Alterar minha senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.changePassword" xml:space="preserve" approved="no">
+<source>Alterar senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.dateLastLogin" xml:space="preserve" approved="no">
+<source>Último acesso</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.dateRegistered" xml:space="preserve" approved="no">
+<source>Data de cadastro</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.editMyProfile" xml:space="preserve" approved="no">
+<source>Editar meu perfil</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.email" xml:space="preserve" approved="no">
+<source>E-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.feminine" xml:space="preserve" approved="no">
+<source>F</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.firstName" xml:space="preserve" approved="no">
+<source>Nome</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.gender" xml:space="preserve" approved="no">
+<source>Sexo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.initialsExample" xml:space="preserve" approved="no">
+<source>Joan Alice Smith = JAS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.initials" xml:space="preserve" approved="no">
+<source>Iniciais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.interests" xml:space="preserve" approved="no">
+<source>Área de interesse para avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.interests.description" xml:space="preserve" approved="no">
+<source>(Separe interesses pressionando as teclas enter ou vírgula)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.gossip" xml:space="preserve" approved="no">
+<source>Notas privadas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.group" xml:space="preserve" approved="no">
+<source>Grupo de usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.lastName" xml:space="preserve" approved="no">
+<source>Sobrenome</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.profileImageInvalid" xml:space="preserve" approved="no">
+<source>Formato ou tamanho de imagem inválido para o perfil. Formatos aceitos são .gif, .jpg, ou .png, e a imagem não pode exceder 150x150 pixels.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.accountDisabledWithReason" xml:space="preserve" approved="no">
+<source>Sua conta foi desabilitada pelo seguinte motivo: {$reason}</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.accountDisabled" xml:space="preserve" approved="no">
+<source>Sua conta foi desativada. Entre em contato com o administrador para maiores informações.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.accountNotValidated" xml:space="preserve" approved="no">
+<source>É necessário validar seu endereço de e-mail. Verifique sua caixa de correio eletrônico e siga as instruções na mensagem recebida. Caso não tenha recebido a mensagem, entre em contato com o administrador para suporte.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.activate" xml:space="preserve" approved="no">
+<source>Ativar cadastro</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.activated" xml:space="preserve" approved="no">
+<source>Seu cadastro foi ativado, permitindo o acesso ao sistema com os dados informados no momento do cadastro.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.changePasswordInstructions" xml:space="preserve" approved="no">
+<source>Uma nova senha deve ser definida antes de cadastrar-se no sistema.&lt;br /&gt;&lt;br /&gt;Digite seu login e senhas atual e nova para alterar a senha de acesso à conta.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.forgotPassword" xml:space="preserve" approved="no">
+<source>Esqueceu a senha?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.loginError" xml:space="preserve" approved="no">
+<source>Login e/ou senha inválido(s). Tente novamente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login" xml:space="preserve" approved="no">
+<source>Acesso</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.lostPassword.confirmationSent" xml:space="preserve" approved="no">
+<source>Um e-mail de confirmação foi enviado. Siga as instruções para criar uma nova senha.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.lostPassword.invalidHash" xml:space="preserve" approved="no">
+<source>O link acessado expirou ou é inválido. Lamentamos o inconveniente. Tente criar uma senha novamente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.lostPassword.invalidUser" xml:space="preserve" approved="no">
+<source>Nenhum usuário cadastrado com o e-mail especificado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.lostPassword.passwordSent" xml:space="preserve" approved="no">
+<source>Uma nova senha foi enviada. Acesse o sistema com a nova senha.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registeredEmail" xml:space="preserve" approved="no">
+<source>E-mail do usuário cadastrado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registrationComplete" xml:space="preserve" approved="no">
+<source>Registro completo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registrationComplete.instructions" xml:space="preserve" approved="no">
+<source>Obrigado por se registrar! O que você gostaria de fazer agora?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registrationComplete.manageSubmissions" xml:space="preserve" approved="no">
+<source>Ver Envios</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registrationComplete.newSubmission" xml:space="preserve" approved="no">
+<source>Fazer uma Novo Envio</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registrationComplete.continueBrowsing" xml:space="preserve" approved="no">
+<source>Continuar Navegação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registrationPendingValidation" xml:space="preserve" approved="no">
+<source>Registro aguardando verificação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.rememberUsernameAndPassword" xml:space="preserve" approved="no">
+<source>Mantenha-me logado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.resetPassword" xml:space="preserve" approved="no">
+<source>Nova senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.logOut" xml:space="preserve" approved="no">
+<source>Sair do sistema</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.logOutAs" xml:space="preserve" approved="no">
+<source>Sair como</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.hello" xml:space="preserve" approved="no">
+<source>Olá, </source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.mailingAddress" xml:space="preserve" approved="no">
+<source>Endereço postal</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.masculine" xml:space="preserve" approved="no">
+<source>M</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.middleName" xml:space="preserve" approved="no">
+<source>Nome do meio</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.myAccount" xml:space="preserve" approved="no">
+<source>Mesclar cadastro</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.name" xml:space="preserve" approved="no">
+<source>Nome</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.other" xml:space="preserve" approved="no">
+<source>Outro</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.password" xml:space="preserve" approved="no">
+<source>Senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.repeatPassword" xml:space="preserve" approved="no">
+<source>Repetir senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.phone" xml:space="preserve" approved="no">
+<source>Telefone</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.changePasswordInstructions" xml:space="preserve" approved="no">
+<source>Digite as senhas atual e nova para alterar a senha de acesso ao cadastro.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.editProfile" xml:space="preserve" approved="no">
+<source>Editar perfil</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.countryRequired" xml:space="preserve" approved="no">
+<source>O país é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.emailRequired" xml:space="preserve" approved="no">
+<source>Endereço de e-mail válido obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.affiliationRequired" xml:space="preserve" approved="no">
+<source>A instituição/afiliação é obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.firstNameRequired" xml:space="preserve" approved="no">
+<source>Nome obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.lastNameRequired" xml:space="preserve" approved="no">
+<source>Sobrenome obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.mailingAddressRequired" xml:space="preserve" approved="no">
+<source>Um endereço postal é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.newPasswordRequired" xml:space="preserve" approved="no">
+<source>Nova senha obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.oldPasswordInvalid" xml:space="preserve" approved="no">
+<source>Senha atual incorreta.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.openAccessNotifications" xml:space="preserve" approved="no">
+<source>Notificações via e-mail de acesso livre à edição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.passwordRequired" xml:space="preserve" approved="no">
+<source>Senha obrigatória.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.passwordSameAsOld" xml:space="preserve" approved="no">
+<source>Sua nova senha é a mesma que a anterior.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.profileImage" xml:space="preserve" approved="no">
+<source>Foto</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.publishedNotifications" xml:space="preserve" approved="no">
+<source>Notificações via e-mail de publicação de nova edição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.urlInvalid" xml:space="preserve" approved="no">
+<source>URL inválida. Verifique a informação e tente novamente (Ajuda: Inclua o protocolo http:// no início da URL.)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.usergroupRequired" xml:space="preserve" approved="no">
+<source>Um grupo de usuários é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.form.usernameRequired" xml:space="preserve" approved="no">
+<source>Login obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.leavePasswordBlank" xml:space="preserve" approved="no">
+<source>Deixe os campos de senha em branco para manter a senha atual.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.newPassword" xml:space="preserve" approved="no">
+<source>Nova senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.oldPassword" xml:space="preserve" approved="no">
+<source>Senha atual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile" xml:space="preserve" approved="no">
+<source>Perfil</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.publicProfile" xml:space="preserve" approved="no">
+<source>Perfil do usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.repeatNewPassword" xml:space="preserve" approved="no">
+<source>Repetir nova senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.registerNewAccount" xml:space="preserve" approved="no">
+<source>Não é um usuário? Registe-se no site</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.resetPasswordInstructions" xml:space="preserve" approved="no">
+<source>Por razões de segurança, este sistema envia por e-mail uma nova senha ao usuário cadastrado, em vez de recordar a senha atual. &lt;br/&gt; &lt;br/&gt; Digite seu email abaixo para redefinir sua senha. Uma confirmação será enviada para este endereço de e-mail.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.login.rememberUsernameAndPassword" xml:space="preserve" approved="no">
+<source>Mantenha-me conectado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.form.emailExists" xml:space="preserve" approved="no">
+<source>O endereço de e-mail digitado já está cadastrado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.form.passwordsDoNotMatch" xml:space="preserve" approved="no">
+<source>As senhas não combinam.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.form.emailsDoNotMatch" xml:space="preserve" approved="no">
+<source>O e-mail informado nos campos não correspondem.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.form.usernameAlphaNumeric" xml:space="preserve" approved="no">
+<source>O nome de usuário pode conter somente caracteres alfanuméricos, sublinhados e hifens, e deve começar e terminar com um caractere alfanumérico (letra ou número).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.form.userGroupRequired" xml:space="preserve" approved="no">
+<source>Ao menos um papel deve ser selecionado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.form.usernameExists" xml:space="preserve" approved="no">
+<source>O login digitado já está cadastrado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.form.passwordLengthRestriction" xml:space="preserve" approved="no">
+<source>A senha deve ter no mínimo {$length} caracteres.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.registerAs" xml:space="preserve" approved="no">
+<source>Cadastrar em {$contextName} como...</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register" xml:space="preserve" approved="no">
+<source>Cadastrar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.usernameRestriction" xml:space="preserve" approved="no">
+<source>O login deve conter apenas letras minúsculas (a-z), números(0-9), sublinhados(_) e hífens(-).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.register.registrationCompleted" xml:space="preserve" approved="no">
+<source>Cadastro realizado com sucesso. &lt;a href="{$profileUrl}"&gt;Clique aqui&lt;/a&gt; para completar seu perfil.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.assistant" xml:space="preserve" approved="no">
+<source>Assistente de Adição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.author" xml:space="preserve" approved="no">
+<source>Autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.author_s" xml:space="preserve" approved="no">
+<source>Autor(es)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.authors" xml:space="preserve" approved="no">
+<source>Autores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.editor" xml:space="preserve" approved="no">
+<source>Editor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.editors" xml:space="preserve" approved="no">
+<source>Editores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.reader" xml:space="preserve" approved="no">
+<source>Leitor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.readers" xml:space="preserve" approved="no">
+<source>Leitores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.reviewer" xml:space="preserve" approved="no">
+<source>Avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.reviewers" xml:space="preserve" approved="no">
+<source>Avaliadores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.siteAdmin" xml:space="preserve" approved="no">
+<source>Administrador do Portal</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.siteAdmins" xml:space="preserve" approved="no">
+<source>Administradores do Portal</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.copyeditor" xml:space="preserve" approved="no">
+<source>Editor de Texto</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.copyeditors" xml:space="preserve" approved="no">
+<source>Editores de Texto</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.proofreader" xml:space="preserve" approved="no">
+<source>Leitor de Prova</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.proofreaders" xml:space="preserve" approved="no">
+<source>Leitores de Prova</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.layoutEditor" xml:space="preserve" approved="no">
+<source>Editor de Leiaute</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.role.layoutEditors" xml:space="preserve" approved="no">
+<source>Editores de Leiaute</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.roles" xml:space="preserve" approved="no">
+<source>Papéis</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.salutation" xml:space="preserve" approved="no">
+<source>Pronome de tratamento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.sendPassword" xml:space="preserve" approved="no">
+<source>Confirmação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.sendPassword.description" xml:space="preserve" approved="no">
+<source>Enviar e-mail de confirmação incluindo login e senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.signature" xml:space="preserve" approved="no">
+<source>Assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.suffix" xml:space="preserve" approved="no">
+<source>Sufixo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.title" xml:space="preserve" approved="no">
+<source>Títulação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.url" xml:space="preserve" approved="no">
+<source>URL</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.userHome" xml:space="preserve" approved="no">
+<source>Página do usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.username" xml:space="preserve" approved="no">
+<source>Usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.workingLanguages" xml:space="preserve" approved="no">
+<source>Idiomas conhecidos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.orcid" xml:space="preserve" approved="no">
+<source>ORCID iD</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.orcid.orcidInvalid" xml:space="preserve" approved="no">
+<source>O ORCID iD informado é inválido. Por favor inclua a URL completa (ex. "http://orcid.org/0000-0002-1825-0097").</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.identity" xml:space="preserve" approved="no">
+<source>Identificação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.contact" xml:space="preserve" approved="no">
+<source>Contato</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.profile.public" xml:space="preserve" approved="no">
+<source>Público</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.apiKey" xml:space="preserve" approved="no">
+<source>Chave da API</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.apiKeyEnabled" xml:space="preserve" approved="no">
+<source>Permitir que aplicações externas com a chave da API tenham acesso a esta conta</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.apiKey.generate" xml:space="preserve" approved="no">
+<source>Gerar nova chave da API</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.apiKey.generateWarning" xml:space="preserve" approved="no">
+<source>Gerar uma nova chave da API irá invalidar qualquer chave já existente para este usuário.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="user.apiKey.secretRequired" xml:space="preserve" approved="no">
+<source>Antes de gerar uma chave da API, você deve definir um código no arquivo de configuração ("api_key_secret")</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.importexport.crossref.displayName" xml:space="preserve" approved="no">
+<source>Exportação CrossRef em XML</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.description" xml:space="preserve" approved="no">
+<source>Exporta metadados dos artigos no formato CrossRef XML.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.requirements" xml:space="preserve" approved="no">
+<source>Requisitos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.requirements.satisfied" xml:space="preserve" approved="no">
+<source>Todos os requisitos do plugin estão atendidos.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.error.publisherNotConfigured" xml:space="preserve" approved="no">
+<source>A instituição editora da revista não foi configurado! Você deve adicionar uma instituição editora na &lt;a href="{$journalSettingsUrl}" target="_blank"&gt; Página de Configurações da Revista&lt;/a&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.error.issnNotConfigured" xml:space="preserve" approved="no">
+<source>O ISSN da revista não foi configurado! Você deve adicionar um ISSN na &lt;a href="{$journalSettingsUrl}" target="_blank"&gt; Página de Configurações do Revista&lt;/a&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.error.noDOIContentObjects" xml:space="preserve" approved="no">
+<source>Os artigos não foram selecionados para a atribuição de DOI no plugin de identificador público do DOI, portanto não há possibilidade de depósito ou exportação neste plugin.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.depositorIntro" xml:space="preserve" approved="no">
+<source>Os seguintes items são exigidos para um depósito bem sucedido na Crossref.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.depositorName" xml:space="preserve" approved="no">
+<source>Nome do depositante</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.depositorEmail" xml:space="preserve" approved="no">
+<source>Email do depositante</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.depositorNameRequired" xml:space="preserve" approved="no">
+<source>Por favor digite o nome do depositante.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.depositorEmailRequired" xml:space="preserve" approved="no">
+<source>Por favor digite o email do depositante.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.registrationIntro" xml:space="preserve" approved="no">
+<source>Se você quiser usar este plugin para registrar Digital Object Identifiers (DOIs) diretamente com o CrossRef, você precisará de um nome de usuário e senha (disponível em &lt;a href="http://www.crossref.org" target="_blank"&gt; CrossRef &lt;/a&gt;). Se você não tiver seu próprio nome de usuário e senha, ainda poderá exportar para o formato CrossRef XML, mas não poderá registrar os nomes DOI com a CrossRef a partir do OJS.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.username" xml:space="preserve" approved="no">
+<source>Nome de usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.usernameRequired" xml:space="preserve" approved="no">
+<source>Por favor, informe o nome de usuário que você revcebeu da CrossRef.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.automaticRegistration.description" xml:space="preserve" approved="no">
+<source>O OJS depositará automaticamente os metadados dos DOIs atribuídos na CrossRef. Observe que isso pode levar um curto período de tempo após a publicação do processo. Você pode verificar todas os DOIs não registrados.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.settings.form.testMode.description" xml:space="preserve" approved="no">
+<source>Use a API de teste CrossRef (ambiente de teste) para o depósito DOI. Não se esqueça de remover esta opção para a produção.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.issues.description" xml:space="preserve" approved="no">
+<source>Nota: Somente as edições (e não seus artigos) serão considerados para exportação/registro aqui.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.status.submitted" xml:space="preserve" approved="no">
+<source>Enviado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.status.completed" xml:space="preserve" approved="no">
+<source>Depositado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.status.failed" xml:space="preserve" approved="no">
+<source>Falhou</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.status.registered" xml:space="preserve" approved="no">
+<source>Ativo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.status.markedRegistered" xml:space="preserve" approved="no">
+<source>Marcar como Ativo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.statusLegend" xml:space="preserve" approved="no">
+<source>
+		&lt;p&gt; Estado do depósito: &lt;/p&gt;
+		&lt;p&gt;
+		- Não depositado: nenhuma tentativa de depósito foi feita para este DOI. &lt;br/&gt;
+		- Enviado: este DOI foi enviado para o depósito. &lt;br /&gt;
+		- Depositado: o DOI foi depositado em Crossref, mas pode não estar ativo ainda. &lt;br /&gt;
+		- Ativo: o DOI foi depositado e está resolvendo corretamente. &lt;br /&gt;
+		- Falha: o depósito DOI falhou. &lt;br /&gt;
+		- Marcado ativo: o DOI foi marcado manualmente como ativo.
+		&lt;/p&gt;
+		&lt;p&gt; Apenas o status da última tentativa de depósito é exibido.&lt;/p&gt;
+		&lt;p&gt; Se um depósito falhou, resolva o problema e tente registrar novamente o DOI.&lt;/p&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.action.export" xml:space="preserve" approved="no">
+<source>Download XML</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.action.markRegistered" xml:space="preserve" approved="no">
+<source>Marcar como Ativo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.action.register" xml:space="preserve" approved="no">
+<source>Enviar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.action.checkStatus" xml:space="preserve" approved="no">
+<source>Verificar Status</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.senderTask.name" xml:space="preserve" approved="no">
+<source>Dados CrossRef do remetente</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.notification.failed" xml:space="preserve" approved="no">
+<source>Um DOI não conseguiu ser registrado. Por favor, vá para Ferramentas&gt; Importar / Exportar&gt; CrossRef XML Export Plugin para ver os depósitos com falha.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.cliUsage" xml:space="preserve" approved="no">
+<source>Uso:
+{$scriptName} {$pluginName} export [xmlFileName] [journal_path] articles objectId1 [objectId2] ...
+{$scriptName} {$pluginName} register [journal_path] articles objectId1 [objectId2] ...
+</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.register.error.mdsError" xml:space="preserve" approved="no">
+<source>O envio não foi bem sucedido! O servidor de registro DOI retornou um erro: '{$param}'.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.register.success" xml:space="preserve" approved="no">
+<source>Enviado com sucesso!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.export.error.issueNotFound" xml:space="preserve" approved="no">
+<source>Nenhuma edição correspondeu ao ID de edição especificado "{$issueId}".</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.importexport.crossref.export.error.articleNotFound" xml:space="preserve" approved="no">
+<source>Nenhum artigo correspondeu ao ID do artigo especificado "{$articleId}".</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

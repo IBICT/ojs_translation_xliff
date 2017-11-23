@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.reports.counter.description" xml:space="preserve" approved="no">
+<source>Esta ferramenta permite produzir  sobre as atividades das revistas usando o &lt;a href="http://www.projectcounter.org/about.html" target="_new"&gt;padrão COUNTER&lt;/a&gt;. Estes relatórios não torna uma revista compatível com o COUNTER. Para oferecer compatibilidad com o COUNTER, veja os requisitos na página do Projeto COUNTER na &lt;em&gt;Web&lt;/em&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter" xml:space="preserve" approved="no">
+<source>Relatórios COUNTER</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.release" xml:space="preserve" approved="no">
+<source>Versão do COUNTER</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.olderReports" xml:space="preserve" approved="no">
+<source>Relatórios da versão anterior</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.error.badParameters" xml:space="preserve" approved="no">
+<source>Parâmetros de relatório inválidos.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.error.badRequest" xml:space="preserve" approved="no">
+<source>Solicitação de relatório inválida.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.error.noResults" xml:space="preserve" approved="no">
+<source>Sem resultados para este relatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.error.noXML" xml:space="preserve" approved="no">
+<source>Os resultados não puderam ser formatados em XML.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.introduction" xml:space="preserve" approved="no">
+<source>Os links produzem relatórios prontos para COUNTER baseados na Distribuição 3.0 já obsoleta. Este relatório abarca todas as revistas no portal. Use a distribuição mais recentes, quando possível.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.name" xml:space="preserve" approved="no">
+<source>Relatório COUNTER JR1 (R3)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.xml" xml:space="preserve" approved="no">
+<source>Versão XML</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.description" xml:space="preserve" approved="no">
+<source>Relatório de periódico COUNTER 1 (R3): solicitações de texto completo de artigos por mês e periódico</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.title" xml:space="preserve" approved="no">
+<source>Relatório de periódico 1 (R3): Solicitações de texto completo de artigos por mês e revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.title1" xml:space="preserve" approved="no">
+<source>Relatório 1 (R3)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.title2" xml:space="preserve" approved="no">
+<source>Número de solicitaçõesi de texto-completo bem-sucedidas a artigos por mês e revista (Ano {$year})</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.dateRun" xml:space="preserve" approved="no">
+<source>Data da execução:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.publisher" xml:space="preserve" approved="no">
+<source>Editora</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.platform" xml:space="preserve" approved="no">
+<source>Plataforma</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.printIssn" xml:space="preserve" approved="no">
+<source>ISSN impresso</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.onlineIssn" xml:space="preserve" approved="no">
+<source>ISSN eletrônico</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.ytdTotal" xml:space="preserve" approved="no">
+<source>Total YTD</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.ytdHtml" xml:space="preserve" approved="no">
+<source>HTML YTD</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.ytdPdf" xml:space="preserve" approved="no">
+<source>PDF YTD</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.totalForAllJournals" xml:space="preserve" approved="no">
+<source>Total para todas as revistas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.1a.anonymous" xml:space="preserve" approved="no">
+<source>anônimo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.legacyStats" xml:space="preserve" approved="no">
+<source>Os links a seguir geram relatórios usando dados antigos do plugin, não preparados para o COUNTER. Caso deseje relatórios COUNTER atuais com a nova métrica COUNTER do OJS, use os links anteriores.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.reports.counter.allCustomers" xml:space="preserve" approved="no">
+<source>Todos os consumidores</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

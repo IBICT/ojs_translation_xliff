@@ -1,0 +1,866 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="grid.noItems" xml:space="preserve" approved="no">
+<source>Nenhum item</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.settings" xml:space="preserve" approved="no">
+<source>Configurações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.noAuditors" xml:space="preserve" approved="no">
+<source>Sem auditores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.remotelyHostedItem" xml:space="preserve" approved="no">
+<source>Este item é armazenado remotamente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.manageAccess" xml:space="preserve" approved="no">
+<source>Manage Access</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.sort" xml:space="preserve" approved="no">
+<source>Ordenar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addItem" xml:space="preserve" approved="no">
+<source>Incluir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addNote" xml:space="preserve" approved="no">
+<source>Adicionar nota</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addQuery" xml:space="preserve" approved="no">
+<source>Adicionar comentários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.readQuery" xml:space="preserve" approved="no">
+<source>Ler comentários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteQuery" xml:space="preserve" approved="no">
+<source>Aagar comentários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.updateQuery" xml:space="preserve" approved="no">
+<source>Atualizar comentários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addUser" xml:space="preserve" approved="no">
+<source>Adicionar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.unassignReviewer" xml:space="preserve" approved="no">
+<source>Dispensar este avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.approveCopyedit" xml:space="preserve" approved="no">
+<source>Aprovar este arquivo editado para envio ao próximo estágio</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.reload" xml:space="preserve" approved="no">
+<source>Recarregar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.delete" xml:space="preserve" approved="no">
+<source>Excluir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteFile" xml:space="preserve" approved="no">
+<source>Excluir arquivo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteMedia" xml:space="preserve" approved="no">
+<source>Excluir mídia</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editMedia" xml:space="preserve" approved="no">
+<source>Editar mídia</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editSection" xml:space="preserve" approved="no">
+<source>Editar Seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.export" xml:space="preserve" approved="no">
+<source>Exportar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteSection" xml:space="preserve" approved="no">
+<source>Apagar seção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editorialHistory" xml:space="preserve" approved="no">
+<source>Histórico Editorial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.remove" xml:space="preserve" approved="no">
+<source>Remover</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.edit" xml:space="preserve" approved="no">
+<source>Editar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.approve" xml:space="preserve" approved="no">
+<source>Aceitar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.disapprove" xml:space="preserve" approved="no">
+<source>Desaprovar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.setApproval" xml:space="preserve" approved="no">
+<source>Definir Aprovação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.moreInformation" xml:space="preserve" approved="no">
+<source>Mais informações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.restoreDefaults" xml:space="preserve" approved="no">
+<source>Restaurar padrões</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.restoreDefaults.confirm" xml:space="preserve" approved="no">
+<source>Tem certeza que deseja restaurar os padrões?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addAuthor" xml:space="preserve" approved="no">
+<source>Incluir autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editAuthor" xml:space="preserve" approved="no">
+<source>Editar autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteAuthor" xml:space="preserve" approved="no">
+<source>Excluir autor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addAuditor" xml:space="preserve" approved="no">
+<source>Incluir um auditor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.upgrade" xml:space="preserve" approved="no">
+<source>Atualizar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.order" xml:space="preserve" approved="no">
+<source>Ordenar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.cancelOrdering" xml:space="preserve" approved="no">
+<source>Cancelar ordenação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.extendAll" xml:space="preserve" approved="no">
+<source>Expandir todos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.collapse" xml:space="preserve" approved="no">
+<source>Contrair</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.collapseAll" xml:space="preserve" approved="no">
+<source>Contrair todos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.wizard" xml:space="preserve" approved="no">
+<source>Assistente de configuração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.moveItem" xml:space="preserve" approved="no">
+<source>Mover item</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.downloadAll" xml:space="preserve" approved="no">
+<source>Baixar todos os arquivos de uma vez (arquivo compactado)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.readReview" xml:space="preserve" approved="no">
+<source>Ler esta avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.email" xml:space="preserve" approved="no">
+<source>Enviar mensagem</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addReviewer" xml:space="preserve" approved="no">
+<source>Incluir avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addFile" xml:space="preserve" approved="no">
+<source>Incluir arquivo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editFile" xml:space="preserve" approved="no">
+<source>Editar um arquivo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.selectFiles" xml:space="preserve" approved="no">
+<source>Escolha arquivos para gerenciar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.requestRevisions" xml:space="preserve" approved="no">
+<source>Solicitar alterações nesta submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.accept" xml:space="preserve" approved="no">
+<source>Aceitar esta submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.decline" xml:space="preserve" approved="no">
+<source>Recusar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.internalReview" xml:space="preserve" approved="no">
+<source>Enviar esta submissão para avaliação interna</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.externalReview" xml:space="preserve" approved="no">
+<source>Enviar esta submissão para avaliação externa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.sendToProduction" xml:space="preserve" approved="no">
+<source>Enviar esta submissão para editoração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.settings" xml:space="preserve" approved="no">
+<source>Configurações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.importexport" xml:space="preserve" approved="no">
+<source>Importar ou exportar conteúdo ou dados do site</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.restoreDefaults" xml:space="preserve" approved="no">
+<source>Restaurar padrões</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.orderItems" xml:space="preserve" approved="no">
+<source>Habilitar modo de ordenação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editSubmissionChecklist" xml:space="preserve" approved="no">
+<source>Editar este item de verificação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteSubmissionChecklist" xml:space="preserve" approved="no">
+<source>Excluir este item de verificação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.resetAll" xml:space="preserve" approved="no">
+<source>Restaurar todos os itens a seus valores originais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addPreparedEmail" xml:space="preserve" approved="no">
+<source>Incluir um novo modelo de mensagem</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editPreparedEmail" xml:space="preserve" approved="no">
+<source>Editar este modelo de mensagem</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.disableEmail" xml:space="preserve" approved="no">
+<source>Desabilitar este modelo de mensagem</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.resetEmail" xml:space="preserve" approved="no">
+<source>Restaurar este modelo de mensagem para o original</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.expandAll" xml:space="preserve" approved="no">
+<source>Expandir todos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.requestAccount" xml:space="preserve" approved="no">
+<source>Incluir participante</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.expand" xml:space="preserve" approved="no">
+<source>Expandir</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.notify" xml:space="preserve" approved="no">
+<source>Notificar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addUserGroup" xml:space="preserve" approved="no">
+<source>Incluir novo grupo de usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editUserGroup" xml:space="preserve" approved="no">
+<source>Editar este grupo de usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.disable" xml:space="preserve" approved="no">
+<source>Desabilitar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.details" xml:space="preserve" approved="no">
+<source>Ver item</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.enrolExisting" xml:space="preserve" approved="no">
+<source>Cadastrar usuário existente como avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.selectCreate" xml:space="preserve" approved="no">
+<source>Criar novo avaliador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.search" xml:space="preserve" approved="no">
+<source>Buscar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.advancedSearch" xml:space="preserve" approved="no">
+<source>Busca avançada</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.viewLibrary" xml:space="preserve" approved="no">
+<source>Ver Biblioteca da Revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.viewMetadata" xml:space="preserve" approved="no">
+<source>Ver dados da submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.sendReminder" xml:space="preserve" approved="no">
+<source>Enviar lembrete de tarefa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.newRound" xml:space="preserve" approved="no">
+<source>Criar nova rodada</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.viewReviewGuidelines" xml:space="preserve" approved="no">
+<source>Ver diretrizes de avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.viewCompetingInterestGuidelines" xml:space="preserve" approved="no">
+<source>Ver as políticas de diretrizes para conflito de interesses</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.thankReviewer" xml:space="preserve" approved="no">
+<source>Enviar agradecimento</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.uploadFile" xml:space="preserve" approved="no">
+<source>Enviar arquivo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addAnnouncementType" xml:space="preserve" approved="no">
+<source>Incluir tipo de notícia</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addAnnouncement" xml:space="preserve" approved="no">
+<source>Incluir notícia</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.mergeUser" xml:space="preserve" approved="no">
+<source>Mesclar usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.unassignUser" xml:space="preserve" approved="no">
+<source>Remover Usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.history" xml:space="preserve" approved="no">
+<source>Ver Histórico</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.unconsiderReview" xml:space="preserve" approved="no">
+<source>Esta revisão está completa, mas você pode desconsiderá-la</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.enable" xml:space="preserve" approved="no">
+<source>Habilitar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.bookInfo" xml:space="preserve" approved="no">
+<source>Dados da submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.logInAs" xml:space="preserve" approved="no">
+<source>Acessar Como</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.exportAllUsers" xml:space="preserve" approved="no">
+<source>Exportar Todos Usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.users.confirmExportAllUsers" xml:space="preserve" approved="no">
+<source>Tem certeza que deseja exportar todos os usuários?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.activate" xml:space="preserve" approved="no">
+<source>Ativar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deactivate" xml:space="preserve" approved="no">
+<source>Desativar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.copy" xml:space="preserve" approved="no">
+<source>Copiar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.preview" xml:space="preserve" approved="no">
+<source>Previsualizar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.install" xml:space="preserve" approved="no">
+<source>Instalar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.moreItems" xml:space="preserve" approved="no">
+<source>Carregar mais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.task.status.completed" xml:space="preserve" approved="no">
+<source>Tarefa concluída</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.task.status.new" xml:space="preserve" approved="no">
+<source>Este novo item requer sua atenção</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.task.status.uploaded" xml:space="preserve" approved="no">
+<source>O título da coluna indica quem enviou o arquivo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.task.status.unfinished" xml:space="preserve" approved="no">
+<source>Tarefa não finalizada</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.task.status.reviewReady" xml:space="preserve" approved="no">
+<source>A revisão está pronte. Clique no ícone de anotação da direita para lê-la.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.columns.actions" xml:space="preserve" approved="no">
+<source>Ações</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.columns.institution" xml:space="preserve" approved="no">
+<source>Instituição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.columns.url" xml:space="preserve" approved="no">
+<source>URL</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.columns.auditor" xml:space="preserve" approved="no">
+<source>Auditor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.columns.locale" xml:space="preserve" approved="no">
+<source>Tradução</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.sponsor.title" xml:space="preserve" approved="no">
+<source>Patrocinadores</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addSponsor" xml:space="preserve" approved="no">
+<source>Incluir patrocinador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteSponsor" xml:space="preserve" approved="no">
+<source>Excluir patrocinador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editSponsor" xml:space="preserve" approved="no">
+<source>Editar patrocinador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addSeries" xml:space="preserve" approved="no">
+<source>Incluir série</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editSeries" xml:space="preserve" approved="no">
+<source>Editar série</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteSeries" xml:space="preserve" approved="no">
+<source>Excluir série</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addCategory" xml:space="preserve" approved="no">
+<source>Incluir categoria</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editCategory" xml:space="preserve" approved="no">
+<source>Editar categoria</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteCategory" xml:space="preserve" approved="no">
+<source>Excluir categoria</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.contributor.title" xml:space="preserve" approved="no">
+<source>Fontes de Apoio</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.addContributor" xml:space="preserve" approved="no">
+<source>Incluir Coautor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.editContributor" xml:space="preserve" approved="no">
+<source>Editar coautor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.deleteContributor" xml:space="preserve" approved="no">
+<source>Excluir Coautor</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.reviewForm.title" xml:space="preserve" approved="no">
+<source>Formulários de avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.reviewFormElement.responseItems" xml:space="preserve" approved="no">
+<source>Opções de Resposta</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.noFiles" xml:space="preserve" approved="no">
+<source>Sem arquivos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.libraryFiles.column.files" xml:space="preserve" approved="no">
+<source>Documentos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.libraryFiles.submission.title" xml:space="preserve" approved="no">
+<source>Biblioteca de submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.libraryFiles.editorial.title" xml:space="preserve" approved="no">
+<source>Biblioteca editorial</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.libraryFiles.review.title" xml:space="preserve" approved="no">
+<source>Bilbioteca de revisão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.libraryFiles.production.title" xml:space="preserve" approved="no">
+<source>Biblioteca de editoração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.libraryFiles.productionTemplate.title" xml:space="preserve" approved="no">
+<source>Biblioteca de modelos de editoração</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.submissionChecklist.title" xml:space="preserve" approved="no">
+<source>Diretrizes para submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.submissionChecklist.column.checklistItem" xml:space="preserve" approved="no">
+<source>Item de verificação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.users.contributor.name" xml:space="preserve" approved="no">
+<source>Nome</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.users.contributor.email" xml:space="preserve" approved="no">
+<source>E-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.users.contributor.role" xml:space="preserve" approved="no">
+<source>Papel</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.users.contributor.principalContact" xml:space="preserve" approved="no">
+<source>Contato principal</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="author.users.contributor.includeInBrowse" xml:space="preserve" approved="no">
+<source>Nas Listas de Navegação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.roles.currentRoles" xml:space="preserve" approved="no">
+<source>Papéis atuais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.roles.add" xml:space="preserve" approved="no">
+<source>Incluir papel</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.roles.stageAssignment" xml:space="preserve" approved="no">
+<source>Designação de estágio</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.currentUsers" xml:space="preserve" approved="no">
+<source>Usuários atuais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.currentEnrollment" xml:space="preserve" approved="no">
+<source>Cadastro atual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.allRoles" xml:space="preserve" approved="no">
+<source>Todos os papéis</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.allPermissionLevels" xml:space="preserve" approved="no">
+<source>Todos os Níveis de Permissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.add" xml:space="preserve" approved="no">
+<source>Incluir usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.enroll" xml:space="preserve" approved="no">
+<source>Cadastrar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.edit" xml:space="preserve" approved="no">
+<source>Editar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.email" xml:space="preserve" approved="no">
+<source>E-mail</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.enable" xml:space="preserve" approved="no">
+<source>Habilitar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.disable" xml:space="preserve" approved="no">
+<source>Desabilitar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.disableReason" xml:space="preserve" approved="no">
+<source>Motivo para desabilitar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.enableReason" xml:space="preserve" approved="no">
+<source>Motivo para habilitar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.error" xml:space="preserve" approved="no">
+<source>Erro encontrado ao gerenciar usuário. Tente novamente.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.errorEmail" xml:space="preserve" approved="no">
+<source>Erro encontrado ao enviar mensagem. Verifique se as configurações do servidor de e-mail estão funcionando e/ou entre em contato com o administrador do sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.cannotAdminister" xml:space="preserve" approved="no">
+<source>Sem permisão para editar usuário. Para editar um usuário você deve ou ser administrador do site ou ser gerente em todas as revistas nas quais o usuário está cadastrado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.authSource" xml:space="preserve" approved="no">
+<source>Fonte de autenticação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mustProvideName" xml:space="preserve" approved="no">
+<source>Inforem pelo menos o sobrenome para o usuário.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.generatePassword" xml:space="preserve" approved="no">
+<source>Gerar senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.generatePasswordDescription" xml:space="preserve" approved="no">
+<source>Gerar senha aleatória para o usuário.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.notifyUser" xml:space="preserve" approved="no">
+<source>Notificar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.notifyUserDescription" xml:space="preserve" approved="no">
+<source>Enviar mensagem de boas-vindas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mustChangePassword" xml:space="preserve" approved="no">
+<source>Alterar senha</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mustChangePasswordDescription" xml:space="preserve" approved="no">
+<source>Usuário deverá alterar senha no próximo acesso.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mustChangePasswordDescriptionOld" xml:space="preserve" approved="no">
+<source>Exigir que o usuário mude sua senha ao acessar o sistema da próxima vez.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.moreDetails" xml:space="preserve" approved="no">
+<source>Mais detalhes</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.lessDetails" xml:space="preserve" approved="no">
+<source>Menos detalhes</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.userDetails" xml:space="preserve" approved="no">
+<source>Dados Complementares</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.userRoles" xml:space="preserve" approved="no">
+<source>Papéis</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.userNoRoles" xml:space="preserve" approved="no">
+<source>Este usuário não possui papéis.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.step1" xml:space="preserve" approved="no">
+<source>Passo #1: Preencha os detalhes do perfil</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.step2" xml:space="preserve" approved="no">
+<source>Passo #2: Atribuir papéis a {$userFullName}</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.addRoles" xml:space="preserve" approved="no">
+<source>Incluir papéis</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.addRole" xml:space="preserve" approved="no">
+<source>Adicionar Papel</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.selectUser" xml:space="preserve" approved="no">
+<source>Escolher usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.pleaseSelectUser" xml:space="preserve" approved="no">
+<source>Escolha um usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.confirmLogInAs" xml:space="preserve" approved="no">
+<source>Acessar como este usuário? Todas as ações realizadas serão atribuídas a ele.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers" xml:space="preserve" approved="no">
+<source>Mesclar usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.mergeUser" xml:space="preserve" approved="no">
+<source>Mesclar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.mergeIntoUser" xml:space="preserve" approved="no">
+<source>Mesclar neste usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.into.description" xml:space="preserve" approved="no">
+<source>Agora você deve selecionar um usuário ao qual serão atribuídos o histórico de revisão, autorias, etc, do usuário anterior.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.from.description" xml:space="preserve" approved="no">
+<source>Selecione um usuário para mesclar em outra conta de usuário (por exemplo, quando alguém tem duas contas de usuário). A conta selecionada em primeiro lugar será eliminada e suas submissões, atribuições, etc, serão atribuídos à segunda conta.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.allUsers" xml:space="preserve" approved="no">
+<source>Todos os usuários registrados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.mergeUserSelect.confirm" xml:space="preserve" approved="no">
+<source>Tem certeza de que deseja mesclar este usuário com outro? Você vai escolher o próximo usuário na tela seguinte.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.confirm" xml:space="preserve" approved="no">
+<source>Tem certeza de que deseja mesclar a conta com o nome de usuário "{$oldUsername}" para a conta com o nome de usuário "{$newUsername}"? A conta com o nome de usuário "{$oldUsername}" não existirá depois. Essa ação não é reversível.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.user.mergeUsers.noneEnrolled" xml:space="preserve" approved="no">
+<source>Nenhum usuário com este papel.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.preparedEmails.title" xml:space="preserve" approved="no">
+<source>Modelos prontos de mensagens</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.preparedEmails.currentList" xml:space="preserve" approved="no">
+<source>Lista atual</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.plugin.allCategories" xml:space="preserve" approved="no">
+<source>Todas as categorias</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.plugin.disable" xml:space="preserve" approved="no">
+<source>Deseja realmente desabilitar este plugin?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.fileUnconsider" xml:space="preserve" approved="no">
+<source>Correções realizadas na prova. Esta tarefa pode ser desconsiderada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.artworkFile.caption" xml:space="preserve" approved="no">
+<source>Legenda</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.artworkFile.credit" xml:space="preserve" approved="no">
+<source>Crédito</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.artworkFile.copyrightOwner" xml:space="preserve" approved="no">
+<source>Detentor dos Direitos Autorais</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.artworkFile.copyrightContact" xml:space="preserve" approved="no">
+<source>Informações de Contato (se não for o autor / editor)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.artworkFile.permissionTerms" xml:space="preserve" approved="no">
+<source>Termos de Permissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.artworkFile.placement" xml:space="preserve" approved="no">
+<source>Colocação em submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.assignStage" xml:space="preserve" approved="no">
+<source>Designar etapa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.unassignStage" xml:space="preserve" approved="no">
+<source>Revogar etapa</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.allStages" xml:space="preserve" approved="no">
+<source>Todas etadas do fluxo de trabalho</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.filter.listRoles" xml:space="preserve" approved="no">
+<source>Listar papéis associados a(o)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.filter.permissionLevel" xml:space="preserve" approved="no">
+<source>Com permissões de</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.cantRemoveDefaultUserGroup" xml:space="preserve" approved="no">
+<source>O papel {$userGroupName} é padrão do sistema e não pode ser removido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.cantRemoveUserGroup" xml:space="preserve" approved="no">
+<source>Não é possível remover o papel {$userGroupName}. Atualmente {$usersCount} usuário(s) está(ão) associados a ele.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.removed" xml:space="preserve" approved="no">
+<source>{$userGroupName} papel removido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.assignedStage" xml:space="preserve" approved="no">
+<source>Papel {$userGroupName} associado à etapa {$stageName}.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.userGroup.unassignedStage" xml:space="preserve" approved="no">
+<source>Papel {$userGroupName} removido da etapa {$stageName}.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.submission.itemTitle" xml:space="preserve" approved="no">
+<source>Autor; Título</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.submission.active.selectOrphaned" xml:space="preserve" approved="no">
+<source>Incluir submissões incompletas não enviadas por um autor.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

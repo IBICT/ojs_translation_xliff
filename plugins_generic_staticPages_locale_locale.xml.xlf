@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.generic.staticPages.displayName" xml:space="preserve" approved="no">
+<source>Páginas estáticas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.description" xml:space="preserve" approved="no">
+<source>Este plugin permite gerenciar páginas estáticas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.pageTitle" xml:space="preserve" approved="no">
+<source>Título</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.content" xml:space="preserve" approved="no">
+<source>Conteúdo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.path" xml:space="preserve" approved="no">
+<source>Caminho</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.requirement.tinymce" xml:space="preserve" approved="no">
+<source>&lt;strong&gt;O Editor TinyMCE deve estar instalado e habilitado para incluir/editar conteúdo.&lt;/strong&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.editAddContent" xml:space="preserve" approved="no">
+<source>Editar/incluir conteúdo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.addStaticPage" xml:space="preserve" approved="no">
+<source>Incluir página estática</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.addNewPage" xml:space="preserve" approved="no">
+<source>Incluir nova página</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.editStaticPage" xml:space="preserve" approved="no">
+<source>Editar página estática</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.settingInstructions" xml:space="preserve" approved="no">
+<source>O formulário a seguir mostra todas as páginas estáticas já criadas. Você pode editar ou excluir as páginas por meio dos links disponíveis à direita.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.editInstructions" xml:space="preserve" approved="no">
+<source>Use o formulário para incluir/editar o conteúdo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.duplicatePath" xml:space="preserve" approved="no">
+<source>Este caminho já existe para outra página estática.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.pageSaved" xml:space="preserve" approved="no">
+<source>Página salva com sucesso.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.pageDeleted" xml:space="preserve" approved="no">
+<source>Página excluída com sucesso.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.noneExist" xml:space="preserve" approved="no">
+<source>Nenhuma página criada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.staticPages" xml:space="preserve" approved="no">
+<source>Páginas Estáticas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.noneCreated" xml:space="preserve" approved="no">
+<source>Não há páginas estáticas criadas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.pathRegEx" xml:space="preserve" approved="no">
+<source>O campo caminho deve conter apenas caracteres alfanuméricos mais, '/', '.' '-' e '_'.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.staticPages.viewInstructions" xml:space="preserve" approved="no">
+<source>&lt;P&gt; Esta página será acessível em: &lt;blockquote&gt; {$pagesPath} &lt;/blockquote&gt; ... onde %PATH% é o caminho digitado acima. &lt;Strong&gt; Nota: &lt;/ strong&gt; Duas páginas não podem ter o mesmo caminho. Usar caminhos que já existem no sistema pode causar a perda de acesso a funções importantes. &lt;/P&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

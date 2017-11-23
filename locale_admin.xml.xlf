@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="admin.hostedJournals" xml:space="preserve" approved="no">
+<source>Revistas hospedadas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.journalRedirect" xml:space="preserve" approved="no">
+<source>Redirecionamento para revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.journalRedirectInstructions" xml:space="preserve" approved="no">
+<source>As solicitações realizadas ao portal serão direcionadas a esta revista. Esta opção pode ser útil caso o Portal hospede apenas uma revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.noJournalRedirect" xml:space="preserve" approved="no">
+<source>Não redirecionar</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.primaryLocaleInstructions" xml:space="preserve" approved="no">
+<source>Este será o idioma padrão para o portal e todas as revistas hospedadas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.supportedLocalesInstructions" xml:space="preserve" approved="no">
+<source>Os idiomas selecionados estarão disponíveis para todas as revistas no portal, e constarão da lista de idiomas que aparece em cada página do sistema (esta opção pode ser desativada individualmente por revista). Caso não sejam selecionados vários idiomas, a lista de idiomas não estará disponível e a opção "configurações de idioma" não estará disponível para as revistas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.confirmUninstall" xml:space="preserve" approved="no">
+<source>Deseja realmente remover este idioma? A execução pode afetar revistas hospedas que podem estar utilizando o idioma.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.installNewLocalesInstructions" xml:space="preserve" approved="no">
+<source>Selecione idiomas adicionais para uso no sistema. Os idiomas devem ser instalados antes que possam ser utilizados pelas revistas hospedadas. Veja a documentação para informações sobre como incluir novos idiomas no sistema.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.downloadFailed" xml:space="preserve" approved="no">
+<source>Erro ao baixar idioma. A seguir, um detalhamento do(s) erro(s).</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.localeInstalled" xml:space="preserve" approved="no">
+<source>Idioma "{$locale}" instalado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.download" xml:space="preserve" approved="no">
+<source>Baixar idioma</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.download.cannotOpen" xml:space="preserve" approved="no">
+<source>Não é possível abrir a identificação de idioma do portal do PKP.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.download.cannotModifyRegistry" xml:space="preserve" approved="no">
+<source>Não é possível incluir novo idioma no arquivo de registro de idiomas, geralmente "registry/locales.xml".</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.auth.ojs" xml:space="preserve" approved="no">
+<source>Base de dados de usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.auth.enableSyncProfiles" xml:space="preserve" approved="no">
+<source>Habilitar sincronização de perfil de usuários (caso suportado pelo plugin de autenticação!). Os perfis dos usuários serão atualizados com o conteúdo da fonte remota assim que o usuário acessar o sistema, e alterações no perfil (incluindo alteração de senha) realizadas dentro do sistema atualizarão a fonte remota. Caso esta opção não esteja habilitada, os perfis no sistema serão mantidos separados da fonte remota.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.auth.enableSyncPasswords" xml:space="preserve" approved="no">
+<source>Habilitar alteração de senha de usuário (caso suportado pelo plugin de autenticação!). Habilitar esta opção permite ao usuário modificar a senha do sistema e fazer uso da opção de recuperação de senha para criar uma nova senha. Estas funcionalidades não estarão disponíveis aos usuários com esta fonte de autenticação, caso esta opção não seja habilitada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.auth.enableCreateUsers" xml:space="preserve" approved="no">
+<source>Habilitar criação de usuários (caso suportado pelo plugin de autenticação!). Usuários criados no sistema serão automaticamente incluídos na fonte de autenticação remota, caso não existam ainda. Inclusive, usuários criados através do cadastro de usuários também serão incluídos automaticamente na fonte remota, caso esta seja a fonte de autenticação padrão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.systemVersion" xml:space="preserve" approved="no">
+<source>Versão do OJS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.systemConfiguration" xml:space="preserve" approved="no">
+<source>Configuração do OJS</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.systemConfigurationDescription" xml:space="preserve" approved="no">
+<source>Configurações do OJS no arquivo &lt;tt&gt;config.inc.php&lt;/tt&gt;.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.journalSettings" xml:space="preserve" approved="no">
+<source>Configurações da revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.noneCreated" xml:space="preserve" approved="no">
+<source>Nenhuma revista foi criada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.contexts.confirmDelete" xml:space="preserve" approved="no">
+<source>Deseja realmente excluir permanentemente esta revista e seu conteúdo?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.contexts.create" xml:space="preserve" approved="no">
+<source>Criar revista</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.createInstructions" xml:space="preserve" approved="no">
+<source>Seu cadastro como Gerente da Revista será automático. Após a criação de uma revista, acesse-a como gerente e continue com as configurações da revista e cadastro de usuários.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.urlWillBe" xml:space="preserve" approved="no">
+<source>Geralmente é usado um acrônimo que identifica o periódico. A URL da revista será: {$sampleUrl}</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.contexts.form.pathRequired" xml:space="preserve" approved="no">
+<source>O caminho é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.contexts.form.pathAlphaNumeric" xml:space="preserve" approved="no">
+<source>O caminho deve conter apenas caracteres alfanuméricos, sublinhado, hífens, e deve começar e terminar com um caractere alfanumérico.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.contexts.form.pathExists" xml:space="preserve" approved="no">
+<source>O caminho selecionado já está em uso por outra revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.enableJournalInstructions" xml:space="preserve" approved="no">
+<source>Permitir Acesso Livre a esta revista no portal</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.journalDescription" xml:space="preserve" approved="no">
+<source>Descrição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journal.pathImportInstructions" xml:space="preserve" approved="no">
+<source>Caminho existente ou caminho a ser criado (ex.:</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.importSubscriptions" xml:space="preserve" approved="no">
+<source>Importar assinaturas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.transcode" xml:space="preserve" approved="no">
+<source>Transcodificar metadados de ISO8859-1</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.redirect" xml:space="preserve" approved="no">
+<source>Gerar código para mapear URLs da versão 1 do OJS para URLs da versão 2</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.form.importPathRequired" xml:space="preserve" approved="no">
+<source>O caminho físico para a importação é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.journals.importErrors" xml:space="preserve" approved="no">
+<source>Importação não concluída.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.mergeUsers" xml:space="preserve" approved="no">
+<source>Mesclar usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.mergeUsers.mergeUser" xml:space="preserve" approved="no">
+<source>Mesclar usuário</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.mergeUsers.into.description" xml:space="preserve" approved="no">
+<source>Escolha um usuário a quem deseja atribuir as submissões e histórico de tarefas do cadastro anterior.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.mergeUsers.from.description" xml:space="preserve" approved="no">
+<source>Escolha um usuário para mesclar o cadastro com o de outra conta (quando um usuário possui duas contas distintas, em vez de acumular papéis editoriais). O cadastro selecionado primeiro será excluído e suas submissões e histórico de tarefas atribuídas ao segundo cadastro escolhido.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.mergeUsers.allUsers" xml:space="preserve" approved="no">
+<source>Todos os usuários</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.mergeUsers.confirm" xml:space="preserve" approved="no">
+<source>Deseja realmente mesclar os "{$oldAccountCount}" cadastro(s) selecionado(s) no cadastro do usuário "{$newUsername}"? Os "{$oldAccountCount}" serão excluídos permanentemente. Esta ação é irreversível!</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.mergeUsers.noneEnrolled" xml:space="preserve" approved="no">
+<source>Nenhum usuário cadastrado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.locale.maybeIncomplete" xml:space="preserve" approved="no">
+<source>Idiomas marcados podem estar incompletos.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.options" xml:space="preserve" approved="no">
+<source>Opções</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.usePaging" xml:space="preserve" approved="no">
+<source>Para sites com muitas publicações, quebrar a lista em várias páginas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.journalsList" xml:space="preserve" approved="no">
+<source>Elementos da publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.journalsList.description" xml:space="preserve" approved="no">
+<source>Escolha os elementos da publicação que serão exibidos para cada publicação na página do site.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.journalsList.showThumbnail" xml:space="preserve" approved="no">
+<source>Miniatura da publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.journalsList.showTitle" xml:space="preserve" approved="no">
+<source>Título</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.journalsList.showDescription" xml:space="preserve" approved="no">
+<source>Descrição</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories" xml:space="preserve" approved="no">
+<source>Categorias</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.enable.description" xml:space="preserve" approved="no">
+<source>O Administrador do Sistema poderá definir o conjunto de categorias aqui para ajudar a organizar grandes volumes de publicações. Editores-Gerentes poderão então escolher várias dessas categorias para cada publicação, e leitores poderão navegar nas coleções por categoria.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.disableCategories" xml:space="preserve" approved="no">
+<source>Não organizar publicações em categorias.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.enableCategories" xml:space="preserve" approved="no">
+<source>Permitir a gerentes organizar publicações em categorias.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.editTitle" xml:space="preserve" approved="no">
+<source>Editar categoria</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.createTitle" xml:space="preserve" approved="no">
+<source>Criar categoria</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.create" xml:space="preserve" approved="no">
+<source>Criar nova categoria</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.noneCreated" xml:space="preserve" approved="no">
+<source>Nenhuma categoria criada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.confirmDelete" xml:space="preserve" approved="no">
+<source>Deseja realmente excluir esta categoria?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.name" xml:space="preserve" approved="no">
+<source>Nome</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.categories.nameRequired" xml:space="preserve" approved="no">
+<source>O nome da categoria é obrigatório.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.settings.defaultMetricDescription" xml:space="preserve" approved="no">
+<source>O OJS está configurado para registrar mais de uma métrica de uso. Estatísticas de uso serão exibidas em vários contextos. Há casos onde uma estatística única deve ser usada, como, por exemplo, para exibir listas ordenadas dos artigos mais usados, ou para classificar resultados de pesquisa. Escolha uma das métricas configuradas como padrão.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.downloadUnavailable" xml:space="preserve" approved="no">
+<source>&lt;p&gt;Não é possível baixar idiomas do servidor do Public Knowledge Project. Os motivos possíveis são:
+	&lt;ul&gt;
+		&lt;li&gt;Seu servidor não possui ou não permite a execução da ferramenta "tar" GNU&lt;/li&gt;
+		&lt;li&gt;O sistema não possui permissão para alterar o arquivo de registro de idiomas, normalmente "registry/locales.xml".&lt;/li&gt;
+                &lt;li&gt;O servidor não possui permissões para conexão remota ao servidor do PKP&lt;/li&gt;
+	&lt;/ul&gt;
+Idiomas estão disponíveis para download manual no &lt;a href="http://pkp.sfu.ca"&gt;portal do PKP&lt;/a&gt;.&lt;/p&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.contexts.form.titleRequired" xml:space="preserve" approved="no">
+<source>O título é obrigatório</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.languages.confirmDisable" xml:space="preserve" approved="no">
+<source>Tem certeza de que deseja desativar este idioma? Isso pode afetar qualquer revistas hospedadas utilizando o idioma.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.presses.createInstructions" xml:space="preserve" approved="no">
+<source>Você será automaticamente designado como o gerente desta revista. Depois de criar uma nova revista, você será redirecionado para o assistente de configurações, para completar a configuração inicial da revista.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.scheduledTask.subscriptionExpiryReminder" xml:space="preserve" approved="no">
+<source>Lembrete de Expiração da Assinatura</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.scheduledTask.openAccessNotification" xml:space="preserve" approved="no">
+<source>Notificação de Acesso Aberto</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="admin.scheduledTask.reviewReminder" xml:space="preserve" approved="no">
+<source>Lembrete de Avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

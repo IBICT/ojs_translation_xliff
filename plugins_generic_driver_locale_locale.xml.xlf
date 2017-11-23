@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.generic.driver.displayName" xml:space="preserve" approved="no">
+<source>DRIVER</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.driver.description" xml:space="preserve" approved="no">
+<source>O plugin DRIVER estende a interface OAI-PMH de acordo com as Diretrizes DRIVER 2.0, auxiliando publicações OJS a atenderem ao padrão DRIVER.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

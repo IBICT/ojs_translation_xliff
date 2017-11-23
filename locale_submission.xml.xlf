@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="submission.submit.title" xml:space="preserve" approved="no">
+<source>Submeter um artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.userGroup" xml:space="preserve" approved="no">
+<source>Realizar a submissão como...</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.userGroupDescription" xml:space="preserve" approved="no">
+<source>Escolha o papel com o qual deseja submeter este manuscrito.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.upload.selectComponent" xml:space="preserve" approved="no">
+<source>Selecione o componente do artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.title" xml:space="preserve" approved="no">
+<source>Título do artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.title.tip" xml:space="preserve" approved="no">
+<source>O tipo de submissão é usualmente uma imagem, um texto ou outro tipo de multimídia incluindo programas ou interativas. Por favor, escolha a opção mais adequada para a sua submissão. Exemplos podem ser encontrados em  &lt;a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type"&gt;http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type&lt;/a&gt;</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.newSubmissionMultiple" xml:space="preserve" approved="no">
+<source>Começar Nova Submissão em</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.newSubmissionSingle" xml:space="preserve" approved="no">
+<source>Nova Submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.workflow" xml:space="preserve" approved="no">
+<source>Fluxo de trabalho para a submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.issueEntry" xml:space="preserve" approved="no">
+<source>Metadados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.whatNext.description" xml:space="preserve" approved="no">
+<source>O periódico foi notificado de sua submissão e  um e-mail de confirmação foi enviado para seu registro. Assim que um dos editores revisar sua submissão entrará em contato.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.galleyInIssueEntry" xml:space="preserve" approved="no">
+<source>Composição aparece na entrada dos fascículos</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.issueEntry" xml:space="preserve" approved="no">
+<source>Visualizar os metadados desta submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.issueEntry.modalTitle" xml:space="preserve" approved="no">
+<source>Submissão e publicação de metadados</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.issueEntry.submissionMetadata" xml:space="preserve" approved="no">
+<source>Submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.issueEntry.publicationMetadata" xml:space="preserve" approved="no">
+<source>Publicação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.issueEntry.confirm" xml:space="preserve" approved="no">
+<source>Criar uma entrada de assunto para este artigo com base nos metadados abaixo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.event.articleGalleyMadeAvailable" xml:space="preserve" approved="no">
+<source>A composição do artigo "{$galleyFormatName}" está disponível.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.event.articleGalleyMadeUnavailable" xml:space="preserve" approved="no">
+<source>A composição do artigo  "{$galleyFormatName}" não está disponível..</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.issueEntry.availableGalley.title" xml:space="preserve" approved="no">
+<source>Formato para aprovação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.issueEntry.availableGalley.removeMessage" xml:space="preserve" approved="no">
+<source>&lt;p&gt;Esta composição não será &lt;em&gt;mais disponibilizada&lt;/em&gt; para os leitores.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.issueEntry.availableGalley.message" xml:space="preserve" approved="no">
+<source>&lt;p&gt;Esta composição irá &lt;em&gt;se tornar disponível&lt;/em&gt; para os leitores.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.availableArticleGalley" xml:space="preserve" approved="no">
+<source>Tornar esta prova disponível.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.galleyFiles" xml:space="preserve" approved="no">
+<source>Arquivos da composição (prova)</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.proofReadingDescription" xml:space="preserve" approved="no">
+<source>O editor de layout baixa aqui os arquivos prontos para produção (preparados para publicação). Use  &lt;em&gt;Selecionar Auditores&lt;/em&gt; para designar autores e outros para a leitura e correção das provas. Os arquivos corrigidos devem ser enviados para aprovação antes da publicação.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.approveProof" xml:space="preserve" approved="no">
+<source>Aprovar esta prova para inclusão na composição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="grid.action.pageProofApproved" xml:space="preserve" approved="no">
+<source>Esta prova foi aprovada para inclusão na composição.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.titleAndSummary" xml:space="preserve" approved="no">
+<source>Título e Resumo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.upload.description" xml:space="preserve" approved="no">
+<source>Baixar arquivos associados a esta submissão, incluindo o artigo, multimídia, conjuntos de dados, obras de arte, etc.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.pageProofs" xml:space="preserve" approved="no">
+<source>Leitura de prova</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.confirmSubmit" xml:space="preserve" approved="no">
+<source>Tem certeza que deseja submeter este artigo para o periódico?</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="workflow.review.externalReview" xml:space="preserve" approved="no">
+<source>Avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="editor.submission.decision.sendExternalReview" xml:space="preserve" approved="no">
+<source>Enviar para Avaliação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.event.issueMetadataUpdated" xml:space="preserve" approved="no">
+<source>A submissão dos metadados foi realizada.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.upload.fileContents" xml:space="preserve" approved="no">
+<source>Componentes do artigo</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.event.publicIdentifiers" xml:space="preserve" approved="no">
+<source>Os identificadores públicos da submissão foram atualizados.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.complete" xml:space="preserve" approved="no">
+<source>Aprovado</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.incomplete" xml:space="preserve" approved="no">
+<source>Esperando Aprovação</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.form.localeRequired" xml:space="preserve" approved="no">
+<source>Por favor selecione um idioma para o envio do manuscrito.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.submissionChecklist" xml:space="preserve" approved="no">
+<source>Checklist da Submissão</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.submissionChecklistDescription" xml:space="preserve" approved="no">
+<source>Você deve ler e reconhecer que você completou os requisitos abaixo antes de prosseguir.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.privacyStatement" xml:space="preserve" approved="no">
+<source>Declaração de Privacidade</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.contributorRole" xml:space="preserve" approved="no">
+<source>Papel do Colaborador</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.form.authorRequired" xml:space="preserve" approved="no">
+<source>Pelo menos um autor é necessário.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.form.authorRequiredFields" xml:space="preserve" approved="no">
+<source>O primeiro nome, sobrenome e endereço de e-mail de cada autor devem ser informados.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.form.titleRequired" xml:space="preserve" approved="no">
+<source>Por favor, indique o título do seu artigo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.form.abstractRequired" xml:space="preserve" approved="no">
+<source>Por favor, informe o resumo do seu artigo.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="submission.submit.form.contributorRoleRequired" xml:space="preserve" approved="no">
+<source>Por favor, selecione o papel do colaborador.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>

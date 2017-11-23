@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:foo="http://www.foo.org/" xmlns:bar="http://www.bar.org" version="1.2"><file source-language="ptBR" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z" product-name="ojs_SW" target-language="sgnBR"><body><trans-unit id="plugins.generic.acron.name" xml:space="preserve" approved="no">
+<source>Plugin Acron</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.acron.description" xml:space="preserve" approved="no">
+<source>Este plugin tem a intenção de reduzir a dependência do OMP em ferramentas de agendamento periódico, tais como a 'cron.'</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.acron.reload" xml:space="preserve" approved="no">
+<source>Recarregar Tarefas Agendadas</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.acron.disabled" xml:space="preserve" approved="no">
+<source>O Plugin Acron foi desabilitado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.acron.enabled" xml:space="preserve" approved="no">
+<source>O Plugin Acron foi habilitado.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.acron.reloadedCronTab" xml:space="preserve" approved="no">
+<source>Guia do Cron recarregada com sucesso.</source>
+<target state="needs-translation"/>
+</trans-unit>
+<trans-unit id="plugins.generic.acron.tasksReloaded" xml:space="preserve" approved="no">
+<source>Tarefas Agendadas foram recarregadas.</source>
+<target state="needs-translation"/>
+</trans-unit>
+</body></file></xliff>
