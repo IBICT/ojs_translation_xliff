@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file original="example.pot" source-language="en-US" datatype="po">
+  <file original="example.pot" source-language="pt-BR" datatype="po">
     <body>
       <trans-unit xml:space="preserve" resname="ee710ec49fd73392a62b8ab4e280e653" id="messages:1">
         <source>Please type in your password:</source>
