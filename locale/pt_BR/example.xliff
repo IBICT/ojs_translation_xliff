@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="example.pot" source-language="en-US" datatype="po">
+    <body>
+      <trans-unit xml:space="preserve" resname="ee710ec49fd73392a62b8ab4e280e653" id="messages:1">
+        <source>Please type in your password:</source>
+        <context-group name="po-reference-1" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <group restype="x-gettext-plurals" id="messages:2">
+        <context-group name="po-reference-2" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group name="po-reference-3" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group name="po-reference-4" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <trans-unit xml:space="preserve" resname="fbaad832ab7685cf789707db10326180" id="messages:2[0]" approved="yes">
+          <source>You have deleted <ph id="1" ctype="x-c-param">%d</ph> file</source>
+        </trans-unit>
+        <trans-unit xml:space="preserve" resname="ae6f0e6c10fb0b8402cf63c827683658" id="messages:2[1]" approved="yes">
+          <source>You have deleted <ph id="1" ctype="x-c-param">%d</ph> files</source>
+        </trans-unit>
+      </group>
+      <trans-unit xml:space="preserve" resname="39c6e12dd87cbd82d1479bb856936c8e" id="messages:3">
+        <source>You are allready a member of the <ph id="1" ctype="x-c-param">%s</ph> group</source>
+        <context-group name="po-reference-5" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" resname="1c35fb07a609147883079dba0b364682" id="messages:4">
+        <source>Please have your account details ready</source>
+        <context-group name="po-reference-6" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit xml:space="preserve" resname="754e3df02e31adcf589977639122e4f8" id="messages:5">
+        <source>Copyright (C) 2001-2005 Free Software Foundation
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+</source>
+        <context-group name="po-reference-7" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group name="po-entry-1" purpose="information">
+          <context context-type="x-po-autocomment"> TRANSLATORS: please limit the page width to 79 characters here
+</context>
+        </context-group>
+        <note from="developer"> TRANSLATORS: please limit the page width to 79 characters here
+</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" resname="32d404f4aab84fda4f9ffff58df2033c" id="messages:6">
+        <source>Please Enter the following Data:
+	- First Name
+	- Last Name
+</source>
+        <context-group name="po-reference-8" purpose="location">
+          <context context-type="sourcefile">simple.c</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
